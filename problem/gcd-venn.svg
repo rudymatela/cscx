@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="60mm" height="45mm" viewBox="2 -3 225 162" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright 2022 Rudy Matela -->
+  <title>Venn diagram for the GCD between 12 and 18 -- cscx.org/gcd</title>
+  <desc>Venn diagram for the GCD between 12 and 18 -- cscx.org/gcd.  Copyright 2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #003366" cx="80" cy="80" rx="60" ry="60"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #663300" cx="140" cy="80" rx="60" ry="60"/>
+    <text font-size="18.6267" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="17.225">
+      <tspan x="60" y="17.225">12/...</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="17.225">
+      <tspan x="160" y="17.225">18/...</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="67.225">
+      <tspan x="60" y="67.225">12</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="117.225">
+      <tspan x="160" y="117.225">18</tspan>
+    </text>
+    <text font-size="24.8356" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="120" y="89.625">
+      <tspan x="120" y="89.625">6</tspan>
+    </text>
+    <text font-size="15.24" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="55.9">
+      <tspan x="110" y="55.9">3</tspan>
+    </text>
+    <text font-size="12.4178" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="104.825">
+      <tspan x="100" y="104.825">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="104.95">
+      <tspan x="50" y="104.95">4</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="74.95">
+      <tspan x="170" y="74.95">9</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="134.95">
+      <tspan x="20" y="134.95">5</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="124.95">
+      <tspan x="210" y="124.95">7</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="10" y="44.95">
+      <tspan x="10" y="44.95">10</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="34.95">
+      <tspan x="200" y="34.95">8</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="154.95">
+      <tspan x="110" y="154.95">11</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="84.95">
+      <tspan x="220" y="84.95">13</tspan>
+    </text>
+    <text font-size="2.25778" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="146.642">
+      <tspan x="170" y="146.642">title: Venn diagram for the GCD between 12 and 18 -- cscx.org/gcd</tspan>
+      <tspan x="170" y="149.464">Copyright 2022 Rudy Matela</tspan>
+      <tspan x="170" y="152.286">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="170" y="155.108">Originally available on https://cscx.org/gcd-venn.svg</tspan>
+    </text>
+  </g>
+</svg>

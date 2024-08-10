@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100mm" height="45mm" viewBox="-2 -23 382 162" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Triangle types by angle</title>
+  <desc>Triangle types by angle.  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="328" y="78.975">
+      <tspan x="328" y="78.975">title: Triangle types by angle</tspan>
+      <tspan x="328" y="83.2083">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="328" y="87.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="328" y="91.675">Originally available on https://cscx.org/triangle-angle-types.svg</tspan>
+    </text>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="280,120 380,120 320,0 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="40,120 120,120 0,0 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="160,120 240,120 160,0 "/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="160" y="110" width="10" height="10" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="110">
+      <tspan x="170" y="110">=90°</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="47.071" y="112.929">
+      <tspan x="47.071" y="112.929">&gt;90°</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="134.95">
+      <tspan x="80" y="134.95">obtuse</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="134.95">
+      <tspan x="200" y="134.95">right</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="134.95">
+      <tspan x="330" y="134.95">acute</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="-9.05">
+      <tspan x="320" y="-9.05"></tspan>
+      <tspan x="320" y="6.95"></tspan>
+      <tspan x="320" y="22.95"></tspan>
+      <tspan x="320" y="38.95">&lt;90°</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="287.072" y="112.929">
+      <tspan x="287.072" y="112.929">&lt;90°</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="372.928" y="112.929">
+      <tspan x="372.928" y="112.929">&lt;90°</tspan>
+    </text>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 316.8,9.4 A 9.46197,9.46197 0 0 0 324.4,9"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 290,120 A 10.3404,10.3404 0 0 0 283.2,110.4"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 375.6,111.2 A 10.153,10.153 0 0 0 370,120"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 50,120 A 9.84188,9.84188 0 0 0 37,110.6"/>
+  </g>
+</svg>

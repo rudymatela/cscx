@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="40mm" height="30mm" viewBox="-1 -1 142 102" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>math history teacher wearing hat and glasses (cscx.org/set-size)</title>
+  <desc>math history teacher wearing hat and glasses (cscx.org/set-size).  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="1.6" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="47.625">
+      <tspan x="70" y="47.625">title: math history teacher wearing hat and glasses (cscx.org/set-size)</tspan>
+      <tspan x="70" y="49.625">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="70" y="51.625">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="70" y="53.625">Originally available on https://cscx.org/set-size.svg</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="110" y="30" width="30" height="40" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="0" y="30" width="30" height="40" rx="0" ry="0"/>
+    <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="70" cy="50" rx="30" ry="30"/>
+    <ellipse style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="70" cy="25" rx="30" ry="5"/>
+    <rect style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="60" y="0" width="20" height="24" rx="0" ry="0"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="55" cy="50" rx="5" ry="5"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="75" cy="50" rx="5" ry="5"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="50" x2="70" y2="50"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="35" x2="50" y2="50"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="90" y1="35" x2="80" y2="50"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="70" y1="80" x2="40" y2="90"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="100" y1="90" x2="70" y2="80"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="30" y1="70" x2="40" y2="90"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="110" y1="70" x2="100" y2="90"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="15" y="46.95">
+      <tspan x="15" y="46.95">ma</tspan>
+      <tspan x="15" y="62.95">th</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="125" y="46.95">
+      <tspan x="125" y="46.95">hist</tspan>
+      <tspan x="125" y="62.95">ory</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="55" y1="85" x2="50" y2="100"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="85" y1="85" x2="90" y2="100"/>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+using set {1,2,3}
+2 is an element of {1,2,3}
+7 is not an element of {1,2,3}
+using set {3,5,7}
+2 is not an element of {3,5,7}
+7 is an element of {3,5,7}

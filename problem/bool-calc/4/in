@@ -1,0 +1,8 @@
+false xor false
+false xor true
+true xor false
+true xor true
+true xor true
+false xor false
+true xor false
+false xor true

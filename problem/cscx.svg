@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="95mm" height="25mm" viewBox="-2 -1 362 92" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Computer Science by Example (cscx.org/cscx)</title>
+  <desc>Computer Science by Example (cscx.org/cscx).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="2.82222" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="55" y="70.8083">
+      <tspan x="55" y="70.8083">title: Computer Science by Example (cscx.org/cscx)</tspan>
+      <tspan x="55" y="74.3361">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="55" y="77.8639">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="55" y="81.3917">Originally available on https://cscx.org/cscx.svg</tspan>
+    </text>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 360 30 C 360,0 300,0 230,0 C 160,0 140,0 130,10 C 120,20 120,28 120,32 C 120,36 100,40 100,40 C 100,40 124,44 124,44 C 124,44 160,60 230,60 C 300,60 360,60 360,30z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="230" y="34.95">
+      <tspan x="230" y="34.95">Computer Science by Example</tspan>
+    </text>
+    <rect style="fill: #e1e1e1; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="0" y="0" width="80" height="60" rx="0" ry="0"/>
+    <polygon style="fill: #e1e1e1; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="0,60 80,60 110,90 30,90 "/>
+    <rect style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="4" y="4" width="72" height="52" rx="0" ry="0"/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="12,64 76,64 94,82 30,82 "/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="20" y1="64" x2="38" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="28" y1="64" x2="46" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="36" y1="64" x2="54" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="44" y1="64" x2="62" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="52" y1="64" x2="70" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="64" x2="78" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="68" y1="64" x2="86" y2="82"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="16" y1="68" x2="80" y2="68"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="20" y1="72" x2="84" y2="72"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="28" y1="80" x2="92" y2="80"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="24" y1="76" x2="88" y2="76"/>
+    <text font-size="10.16" style="fill: #e1e1e1; fill-opacity: 1; stroke: none;text-anchor:start;font-family:monospace;font-style:normal;font-weight:normal" x="10" y="20">
+      <tspan x="10" y="20">$ ls</tspan>
+      <tspan x="10" y="32.7">cscx.lll</tspan>
+      <tspan x="10" y="45.4">$ _</tspan>
+    </text>
+  </g>
+</svg>

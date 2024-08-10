@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="130mm" height="40mm" viewBox="16 3 514 154" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>Circumference and area of a circle</title>
+  <desc>Circumference and area of a circle.  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="74.975">
+      <tspan x="160" y="74.975">title: Circumference and area of a circle</tspan>
+      <tspan x="160" y="79.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="160" y="83.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="160" y="87.675">Originally available on https://cscx.org/circumference-and-area.svg</tspan>
+    </text>
+    <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="160" cy="80" rx="60" ry="60"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="80" x2="220" y2="80"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="76.95">
+      <tspan x="190" y="76.95">radius</tspan>
+      <tspan x="190" y="92.95"></tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 6.6; stroke: #000000" x1="160" y1="140" x2="530" y2="140"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="345" y="136.95">
+      <tspan x="345" y="136.95">circumference</tspan>
+      <tspan x="345" y="152.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="16.95">
+      <tspan x="160" y="16.95">circumference</tspan>
+      <tspan x="160" y="32.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="84.95">
+      <tspan x="30" y="84.95">area</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 6.6; stroke: #000000" d="M 130,60 A 50,50 0 0 0 57.0194,52.4197"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="52.3,48.6 50.3,59.6 60.3,54.6 "/>
+    </g>
+  </g>
+</svg>

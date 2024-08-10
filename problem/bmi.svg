@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="90mm" height="60mm" viewBox="8 5 357 233" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>BMI Graph (cscx.org/bmi)</title>
+  <desc>BMI Graph (cscx.org/bmi).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="224.975">
+      <tspan x="280" y="224.975">title: BMI Graph (cscx.org/bmi)</tspan>
+      <tspan x="280" y="229.208">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="280" y="233.442">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="280" y="237.675">Originally available on https://cscx.org/bmi.svg</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="210" x2="60" y2="10"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="360" y1="210" x2="60" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="30" x2="56" y2="30"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="210" x2="56" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="50" x2="56" y2="50"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="10" x2="56" y2="10"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="70" x2="56" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="90" x2="56" y2="90"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="110" x2="56" y2="110"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="130" x2="56" y2="130"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="150" x2="56" y2="150"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="170" x2="56" y2="170"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="190" x2="56" y2="190"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="214" x2="60" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="360" y1="214" x2="360" y2="210"/>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="222.4">
+      <tspan x="60" y="222.4">40</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="222.4">
+      <tspan x="360" y="222.4">140</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="222.4">
+      <tspan x="210" y="222.4">90</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="120" y1="214" x2="120" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="180" y1="214" x2="180" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="240" y1="214" x2="240" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="300" y1="214" x2="300" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="330" y1="214" x2="330" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="90" y1="214" x2="90" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="150" y1="214" x2="150" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="210" y1="214" x2="210" y2="210"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="270" y1="214" x2="270" y2="210"/>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="222.4">
+      <tspan x="90" y="222.4">50</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="222.4">
+      <tspan x="120" y="222.4">60</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="222.4">
+      <tspan x="150" y="222.4">70</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="222.4">
+      <tspan x="180" y="222.4">80</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="222.4">
+      <tspan x="240" y="222.4">100</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="270" y="222.4">
+      <tspan x="270" y="222.4">110</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="222.4">
+      <tspan x="300" y="222.4">120</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="222.4">
+      <tspan x="330" y="222.4">130</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="212.4">
+      <tspan x="48" y="212.4">1.20</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="192.4">
+      <tspan x="48" y="192.4">1.30</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="172.4">
+      <tspan x="48" y="172.4">1.40</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="152.4">
+      <tspan x="48" y="152.4">1.50</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="132.4">
+      <tspan x="48" y="132.4">1.60</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="112.4">
+      <tspan x="48" y="112.4">1.70</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="92.4">
+      <tspan x="48" y="92.4">1.80</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="72.4">
+      <tspan x="48" y="72.4">1.90</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="52.4">
+      <tspan x="48" y="52.4">2.00</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="32.4">
+      <tspan x="48" y="32.4">2.10</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="48" y="12.4">
+      <tspan x="48" y="12.4">2.20</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="232.85">
+      <tspan x="200" y="232.85">weight (kg)</tspan>
+    </text>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 80 210 C 110,180 330,40 360,20"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 60 196 C 100,150 270,30 300,10"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 60 156 C 80,130 180,30 210,10"/>
+    <text font-size="7.33778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="52.85">
+      <tspan x="110" y="52.85">underweight</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="58.2639">
+      <tspan x="190" y="58.2639">normal</tspan>
+      <tspan x="190" y="67.4361">weight</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="230" y="82.85">
+      <tspan x="230" y="82.85">overweight</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="112.85">
+      <tspan x="260" y="112.85">obese</tspan>
+    </text>
+    <text font-size="7.33778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="108.264">
+      <tspan x="20" y="108.264">height</tspan>
+      <tspan x="20" y="117.436">(m)</tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="35mm" height="20mm" viewBox="5 -3 134 66" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>John is 23 and Jane is 32 (cscx.org/age)</title>
+  <desc>John is 23 and Jane is 32 (cscx.org/age).  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #f8f8f8; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="24.975">
+      <tspan x="70" y="24.975">title: John is 23 and Jane is 32 (cscx.org/age)</tspan>
+      <tspan x="70" y="29.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="70" y="33.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="70" y="37.675">Originally available on https://cscx.org/age.svg</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="29.5" y="11.45">
+      <tspan x="29.5" y="11.45">John, 23</tspan>
+      <tspan x="29.5" y="27.45"></tspan>
+    </text>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="105.5,24.5 125.5,24.5 125.5,44.5 105.5,44.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="111.5,34.5 119.5,34.5 125.5,54.5 105.5,54.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="109.5,54.5 113.5,54.5 113.5,62.5 109.5,62.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="117.5,54.5 121.5,54.5 121.5,62.5 117.5,62.5 "/>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="115.5" cy="24.5" rx="10" ry="10"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="125.5,24.5 119.5,18.5 111.5,18.5 105.5,24.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="119.5,38.5 123.5,38.5 127.5,50.5 123.5,50.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="107.5,38.5 111.5,38.5 107.5,50.5 103.5,50.5 "/>
+    </g>
+    <g>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="35.5,34.5 39.5,34.5 41.5,50.5 37.5,50.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="19.5,34.5 23.5,34.5 21.5,50.5 17.5,50.5 "/>
+      <ellipse style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="29.5" cy="24.5" rx="10" ry="10"/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="19.5,34.5 39.5,34.5 35.5,54.5 23.5,54.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="23.5,54.5 27.5,54.5 27.5,62.5 23.5,62.5 "/>
+      <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="31.5,54.5 35.5,54.5 35.5,62.5 31.5,62.5 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="39.5,24.5 33.5,18.5 25.5,18.5 19.5,24.5 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="115.5" y="11.45">
+      <tspan x="115.5" y="11.45">Jane, 32</tspan>
+      <tspan x="115.5" y="27.45"></tspan>
+    </text>
+  </g>
+</svg>

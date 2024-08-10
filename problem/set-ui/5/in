@@ -1,0 +1,10 @@
+union set 0 set 0
+intersection set 0 set 0
+union set 0 set 1
+intersection set 0 set 1
+union set set
+intersection set set
+union set 0 set
+intersection set 0 set
+union set set 0
+intersection set 0 set

@@ -1,0 +1,27 @@
+using set {0,99}
+0 is an element of {0,99}
+1 is not an element of {0,99}
+2 is not an element of {0,99}
+3 is not an element of {0,99}
+97 is not an element of {0,99}
+98 is not an element of {0,99}
+99 is an element of {0,99}
+using set {0,1,98,99}
+0 is an element of {0,1,98,99}
+1 is an element of {0,1,98,99}
+2 is not an element of {0,1,98,99}
+3 is not an element of {0,1,98,99}
+97 is not an element of {0,1,98,99}
+98 is an element of {0,1,98,99}
+99 is an element of {0,1,98,99}
+using set {12,34,56,78,90}
+12 is an element of {12,34,56,78,90}
+34 is an element of {12,34,56,78,90}
+56 is an element of {12,34,56,78,90}
+78 is an element of {12,34,56,78,90}
+90 is an element of {12,34,56,78,90}
+21 is not an element of {12,34,56,78,90}
+43 is not an element of {12,34,56,78,90}
+65 is not an element of {12,34,56,78,90}
+87 is not an element of {12,34,56,78,90}
+9 is not an element of {12,34,56,78,90}

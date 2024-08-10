@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="55mm" height="35mm" viewBox="-1 -1 212 132" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>The Fibonacci tiling (cscx.org/fibonacci)</title>
+  <desc>The Fibonacci tiling (cscx.org/fibonacci).  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="14.975">
+      <tspan x="80" y="14.975">title: The Fibonacci tiling (cscx.org/fibonacci)</tspan>
+      <tspan x="80" y="19.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="80" y="23.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="80" y="27.675">Originally available on https://cscx.org/fibonacci.svg</tspan>
+    </text>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="50" y="90" width="10" height="10" rx="0" ry="0"/>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="50" y="100" width="30" height="30" rx="0" ry="0"/>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="0" y="80" width="50" height="50" rx="0" ry="0"/>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="0" y="0" width="80" height="80" rx="0" ry="0"/>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="50" y="80" width="10" height="10" rx="0" ry="0"/>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="60" y="80" width="20" height="20" rx="0" ry="0"/>
+    <rect style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="80" y="0" width="130" height="130" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="94.95">
+      <tspan x="70" y="94.95">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="65" y="119.95">
+      <tspan x="65" y="119.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="25" y="109.95">
+      <tspan x="25" y="109.95">5</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="44.95">
+      <tspan x="40" y="44.95">8</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="145" y="69.95">
+      <tspan x="145" y="69.95">13</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="55" y="87.4">
+      <tspan x="55" y="87.4">1</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="55" y="97.4">
+      <tspan x="55" y="97.4">1</tspan>
+    </text>
+  </g>
+</svg>

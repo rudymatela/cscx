@@ -1,0 +1,18 @@
+member 1 set 3 6 9
+member 2 set 3 6 9
+member 3 set 3 6 9
+member 4 set 3 6 9
+member 5 set 3 6 9
+member 6 set 3 6 9
+union set 2 4 6 8 10 set 1 3 5 7 9
+intersection set 2 4 6 8 10 set 1 3 5 7 9
+union set 2 4 6 8 10 12 14 16 18 20 set 1 3 5 7 9 11 13 15 17 19
+intersection set 2 4 6 8 10 12 14 16 18 20 set 1 3 5 7 9 11 13 15 17 19
+union set 1 3 5 7 9 11 13 15 17 19 set 1 2 3 5 7 11 13 17 19
+intersection set 1 3 5 7 9 11 13 15 17 19 set 1 2 3 5 7 11 13 17 19
+union set 10 20 30 40 50 set 10 15 20
+intersection set 10 20 30 40 50 set 10 15 20
+subset set 3 4 set 2 3 4 5
+subset set 6 7 set 2 3 4 5
+difference set 2 3 4 5 set 3 4
+difference set 2 3 4 5 set 6 7

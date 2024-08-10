@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -qi "Hello.*Mary" "$2"

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="80mm" height="50mm" viewBox="-2 -2 302 183" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>The world saying "Hello!"</title>
+  <desc>The world saying "Hello!".  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="84.975">
+      <tspan x="90" y="84.975">title: The world saying "Hello!"</tspan>
+      <tspan x="90" y="89.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="90" y="93.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="90" y="97.675">Originally available on https://cscx.org/hello.svg</tspan>
+    </text>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 300 60 C 300,40 280,20 260,20 C 240,20 220,40 220,60 C 220,80 220,68 220,72 C 220,76 200,80 200,80 C 200,80 224,84 224,84 C 224,84 240,100 260,100 C 280,100 300,80 300,60z"/>
+    <ellipse style="fill: #88ccff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="90" cy="90" rx="90" ry="90"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="64.95">
+      <tspan x="260" y="64.95">Hello!</tspan>
+    </text>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="50,160 90,110 70,100 60,90 40,90 30,110 50,120 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="40,90 40,80 40,70 50,70 60,40 30,30 10,50 30,80 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="130,140 140,130 150,110 160,90 140,60 110,60 90,70 90,90 110,100 120,130 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="170,70 180,80 170,50 156,28 152,24 130,10 120,30 120,40 110,40 90,60 119.94,49.3352 130,50 160,80 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="80,30 90,10 70,10 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="90,180 116,176 130,170 60,170 60,160 50,170 64,176 "/>
+  </g>
+</svg>

@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="110mm" height="120mm" viewBox="-1 -1 426 462" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>Triangle types by edges</title>
+  <desc>Triangle types by edges.  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="194.975">
+      <tspan x="300" y="194.975">title: Triangle types by edges</tspan>
+      <tspan x="300" y="199.208">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="300" y="203.442">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="300" y="207.675">Originally available on https://cscx.org/triangle-types.svg</tspan>
+    </text>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="280,340 260,260 340,280 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="260,220 300,120 340,220 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="280,80 260,20 360,80 "/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="120" y1="20" x2="60" y2="40"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="60" x2="140" y2="60"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="0" y1="0" x2="60" y2="100"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="46.95">
+      <tspan x="30" y="46.95"></tspan>
+      <tspan x="30" y="62.95">z</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="26.95">
+      <tspan x="90" y="26.95"></tspan>
+      <tspan x="90" y="42.95">x</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="56.95">
+      <tspan x="100" y="56.95"></tspan>
+      <tspan x="100" y="72.95">y</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="40" x2="209.5" y2="40"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="209.5,45 219.5,40 209.5,35 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="44.95">
+      <tspan x="360" y="44.95">scalene</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="20" y1="220" x2="60" y2="120"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="220" x2="100" y2="120"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="270" y="46.95">
+      <tspan x="270" y="46.95"></tspan>
+      <tspan x="270" y="62.95">x</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="76.95">
+      <tspan x="320" y="76.95"></tspan>
+      <tspan x="320" y="92.95">y</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="46.95">
+      <tspan x="310" y="46.95">z</tspan>
+      <tspan x="310" y="62.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="28.95">
+      <tspan x="190" y="28.95"></tspan>
+      <tspan x="190" y="44.95"></tspan>
+      <tspan x="190" y="60.95">x ≠ y ≠ z</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="166.95">
+      <tspan x="40" y="166.95">x</tspan>
+      <tspan x="40" y="182.95"></tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="120" y1="220" x2="120" y2="140"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="184.95">
+      <tspan x="120" y="184.95">y</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="180" x2="209.5" y2="180"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="209.5,185 219.5,180 209.5,175 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="164.95">
+      <tspan x="360" y="164.95">isosceles</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="166.95">
+      <tspan x="280" y="166.95">x</tspan>
+      <tspan x="280" y="182.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="166.95">
+      <tspan x="320" y="166.95">x</tspan>
+      <tspan x="320" y="182.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="216.95">
+      <tspan x="300" y="216.95"></tspan>
+      <tspan x="300" y="232.95">y</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="300" x2="209.5" y2="300"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="209.5,305 219.5,300 209.5,295 "/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="280" x2="120" y2="260"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="266.95">
+      <tspan x="80" y="266.95"></tspan>
+      <tspan x="80" y="282.95">x</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="20" y1="320" x2="100" y2="300"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="306.95">
+      <tspan x="60" y="306.95"></tspan>
+      <tspan x="60" y="322.95">x</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="340" x2="140" y2="320"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="326.95">
+      <tspan x="100" y="326.95"></tspan>
+      <tspan x="100" y="342.95">x</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="270" y="296.95">
+      <tspan x="270" y="296.95"></tspan>
+      <tspan x="270" y="312.95">x</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="266.95">
+      <tspan x="300" y="266.95">x</tspan>
+      <tspan x="300" y="282.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="310" y="290.95">
+      <tspan x="310" y="290.95"></tspan>
+      <tspan x="310" y="306.95"></tspan>
+      <tspan x="310" y="322.95">x</tspan>
+      <tspan x="310" y="338.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="284.95">
+      <tspan x="360" y="284.95">equilateral</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="140" y1="400" x2="100" y2="420"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="0" y1="440" x2="40" y2="440"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="380" x2="100" y2="460"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="416.95">
+      <tspan x="70" y="416.95"></tspan>
+      <tspan x="70" y="432.95">z</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="406.95">
+      <tspan x="120" y="406.95"></tspan>
+      <tspan x="120" y="422.95">x</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="436.95">
+      <tspan x="20" y="436.95"></tspan>
+      <tspan x="20" y="452.95">y</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="280" y1="420" x2="260" y2="460"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="260" y1="460" x2="340" y2="400"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="300" y1="400" x2="340" y2="400"/>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="420" x2="209.5" y2="420"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="209.5,425 219.5,420 209.5,415 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="424.95">
+      <tspan x="360" y="424.95">impossible</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="426.95">
+      <tspan x="300" y="426.95"></tspan>
+      <tspan x="300" y="442.95">z</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="396.95">
+      <tspan x="320" y="396.95">y</tspan>
+      <tspan x="320" y="412.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="408.95">
+      <tspan x="190" y="408.95"></tspan>
+      <tspan x="190" y="424.95"></tspan>
+      <tspan x="190" y="440.95">x + y ≤ z</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="270" y="436.95">
+      <tspan x="270" y="436.95">x</tspan>
+      <tspan x="270" y="452.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="166.95">
+      <tspan x="80" y="166.95">x</tspan>
+      <tspan x="80" y="182.95"></tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="168.95">
+      <tspan x="190" y="168.95"></tspan>
+      <tspan x="190" y="184.95"></tspan>
+      <tspan x="190" y="200.95">x ≠ y</tspan>
+    </text>
+  </g>
+</svg>

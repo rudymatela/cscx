@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="65mm" height="35mm" viewBox="6 -1 260 122" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>616 is palindrome, 1234 is not (cscx.org/digit-palindrome)</title>
+  <desc>616 is palindrome, 1234 is not (cscx.org/digit-palindrome).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="80" y1="60" x2="80" y2="97.7639"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" points="78,94.882 80,98.882 82,94.882 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="88" y1="60" x2="72.8305" y2="97.9239"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="72.0438,94.5052 72.4152,98.9619 75.7577,95.9908 "/>
+    </g>
+    <text font-size="1.69333" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="57.5">
+      <tspan x="130" y="57.5">title: 616 is palindrome, 1234 is not (cscx.org/digit-palindrome)</tspan>
+      <tspan x="130" y="59.6167">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="130" y="61.7333">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="130" y="63.85">Originally available on https://cscx.org/digit-palindrome.svg</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="54.95">
+      <tspan x="80" y="54.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="54.95">
+      <tspan x="90" y="54.95">6</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="54.95">
+      <tspan x="170" y="54.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="54.95">
+      <tspan x="200" y="54.95">4</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 6.6; stroke: #000000" x1="130" y1="0" x2="130" y2="120"/>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="54.95">
+      <tspan x="70" y="54.95">6</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="54.95">
+      <tspan x="180" y="54.95">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="54.95">
+      <tspan x="190" y="54.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="114.95">
+      <tspan x="80" y="114.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="114.95">
+      <tspan x="70" y="114.95">6</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="114.95">
+      <tspan x="90" y="114.95">6</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="114.95">
+      <tspan x="200" y="114.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="114.95">
+      <tspan x="170" y="114.95">4</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="114.95">
+      <tspan x="190" y="114.95">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="114.95">
+      <tspan x="180" y="114.95">3</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="174" y1="60" x2="194.922" y2="98.0407"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="191.781,96.4793 195.461,99.0204 195.286,94.5517 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="196" y1="60" x2="175.078" y2="98.0407"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" points="174.714,94.5517 174.539,99.0204 178.219,96.4793 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="181" y1="60" x2="188.561" y2="97.8074"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" points="186.035,95.3736 188.781,98.9037 189.957,94.5891 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="189" y1="60" x2="181.439" y2="97.8074"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="180.043,94.5891 181.219,98.9037 183.965,95.3736 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="72" y1="60" x2="87.1695" y2="97.9239"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="84.2423,95.9908 87.5848,98.9619 87.9562,94.5052 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 47.7639 50 C 10,50 10,110 47.7639,110"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="42.282,53.3 48.882,50 42.282,46.7 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="42.282,113.3 48.882,110 42.282,106.7 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="10" y="84.95">
+      <tspan x="10" y="84.95">=</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="84.425">
+      <tspan x="260" y="84.425">≠</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 222.236 50 C 260,50 260,110 222.236,110"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="227.718,46.7 221.118,50 227.718,53.3 "/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="227.718,106.7 221.118,110 227.718,113.3 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="24.95">
+      <tspan x="70" y="24.95">palindrome</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="16.95">
+      <tspan x="190" y="16.95">not</tspan>
+      <tspan x="190" y="32.95">palindrome</tspan>
+    </text>
+  </g>
+</svg>

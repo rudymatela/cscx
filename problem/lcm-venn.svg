@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="60mm" height="45mm" viewBox="2 -3 225 162" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2022 Rudy Matela -->
+  <title>Venn diagram for the LCM between 12 and 18 -- cscx.org/lcm</title>
+  <desc>Venn diagram for the LCM between 12 and 18 -- cscx.org/lcm.  Copyright (C) 2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #003366" cx="80" cy="80" rx="60" ry="60"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #663300" cx="140" cy="80" rx="60" ry="60"/>
+    <text font-size="18.6267" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="17.225">
+      <tspan x="50" y="17.225">12×...</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="17.225">
+      <tspan x="170" y="17.225">18×...</tspan>
+    </text>
+    <text font-size="12.4178" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="76" y="40.825">
+      <tspan x="76" y="40.825">48</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="97.225">
+      <tspan x="170" y="97.225">18</tspan>
+    </text>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="120" y="83.95">
+      <tspan x="120" y="83.95">36</tspan>
+    </text>
+    <text font-size="15.24" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="55.9">
+      <tspan x="110" y="55.9">72</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="107.225">
+      <tspan x="100" y="107.225">...</tspan>
+    </text>
+    <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="126.125">
+      <tspan x="70" y="126.125">60</tspan>
+    </text>
+    <text font-size="19.7556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="127.675">
+      <tspan x="150" y="127.675">90</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="134.95">
+      <tspan x="20" y="134.95">111</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="124.95">
+      <tspan x="210" y="124.95">91</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="10" y="44.95">
+      <tspan x="10" y="44.95">70</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="34.95">
+      <tspan x="200" y="34.95">19</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="154.95">
+      <tspan x="110" y="154.95">213</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="84.95">
+      <tspan x="220" y="84.95">57</tspan>
+    </text>
+    <text font-size="2.25778" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="146.642">
+      <tspan x="170" y="146.642">title: Venn diagram for the LCM between 12 and 18 -- cscx.org/lcm</tspan>
+      <tspan x="170" y="149.464">Copyright (C) 2022 Rudy Matela</tspan>
+      <tspan x="170" y="152.286">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="170" y="155.108">Originally available on https://cscx.org/lcm-venn.svg</tspan>
+    </text>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 3; stroke: #cc3333" cx="120" cy="80" rx="12" ry="12"/>
+    <text font-size="22.5778" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="88.75">
+      <tspan x="50" y="88.75">120</tspan>
+    </text>
+    <text font-size="15.8044" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="56.125">
+      <tspan x="50" y="56.125">84</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="107.225">
+      <tspan x="50" y="107.225">...</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="67.225">
+      <tspan x="180" y="67.225">...</tspan>
+    </text>
+    <text font-size="14.1111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="45.475">
+      <tspan x="150" y="45.475">54</tspan>
+    </text>
+    <text font-size="7.90222" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="63.05">
+      <tspan x="70" y="63.05">12</tspan>
+    </text>
+    <text font-size="8.46667" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="156" y="71.3">
+      <tspan x="156" y="71.3">18</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #cc3333" x1="90" y1="60" x2="105.051" y2="70.034"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #cc3333" points="95.8174,69.8876 106.911,71.2743 101.364,61.567 "/>
+    </g>
+  </g>
+</svg>

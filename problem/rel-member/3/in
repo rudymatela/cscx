@@ -1,0 +1,53 @@
+matrix 3
+0 1 1
+0 0 1
+0 0 0
+member 0 0
+member 0 1
+member 0 2
+member 1 0
+member 1 1
+member 1 2
+member 2 0
+member 2 1
+member 2 2
+matrix 3
+0 0 0
+1 0 0
+1 1 0
+member 0 0
+member 0 1
+member 0 2
+member 1 0
+member 1 1
+member 1 2
+member 2 0
+member 2 1
+member 2 2
+matrix 3
+0 1 1
+1 0 1
+1 1 0
+member 0 0
+member 0 1
+member 0 2
+member 1 0
+member 1 1
+member 1 2
+member 2 0
+member 2 1
+member 2 2
+list 4
+0 0
+1 1
+2 2
+3 3
+-
+member 0 0
+member 1 1
+member 2 2
+member 3 3
+member 1 0
+member 2 1
+member 3 2
+member 0 3

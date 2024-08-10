@@ -1,0 +1,9 @@
+# .gitignore for CScx
+#
+# 2024  Rudy Matela
+
+var/
+problem/graph.eps
+
+# download folder
+udge/

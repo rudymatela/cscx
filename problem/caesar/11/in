@@ -1,0 +1,87 @@
+BOF
+
+vim:set filetype=markdown:
+
+--
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+--
+
+Here is a small description of how the test cases of the caesar exercise of CScx
+are structured.
+
+1. First example I/O test case ignoring formatting
+2. Second example I/O test case ignoring formatting
+3. First example I/O test case
+4. Second example I/O test case
+5. Reverse of the first example I/O test case
+6. Reverse of the second example I/O test case
+7. Encryption with a key of 6.
+8. Decryption with a key of -10.
+9. Encryption with a key of 20
+10. Decryption with a key of -19
+11. This very text file encrypted with a key of -7.
+12. base64 file.  No argument given, assume a key of 13.
+
+
+Copyright (C) 2020-2021  Rudy Matela
+
+
+Here is more text:
+
+
+Did you know that one plus one equals two?
+In symbolic terms, one can write:
+
+	1 + 1 = 2
+
+Using symbols we can represent mathematical expressions concisely.
+For example, two thirds can be written as simply 2/3.
+
+Here are all the decimal digits:
+
+	0123456789
+
+Here are all the hexadecimal digits:
+
+	0123456789ABCDEF
+
+or, using lowercase:
+
+	0123456789abcdef
+
+Here is a quote using double quotes "Bla bla bla".
+Here is a quote using single quotes 'Bla bla bla'.
+Here are some mathematical expressions:
+
+	1 / 10 + 7 + 2x + y * y ** 2.
+	1 < 2
+	100 < 1000
+	1000 > 200
+
+One can write and as &.
+
+100% of people are people.
+50% of people are half of people.
+66% of people are two thirds of people.
+33% of people are one third of people.
+
+My email is person@example.com,
+that is my #1 email.
+
+I have $100.99 dollars.
+
+I have approximately $99.99 dollar!
+I have ~ $99.9 dollars!
+
+Can I write things using round brackets?       (Yes I can!)
+Can I write things using square brackets?      [Yes I can!]
+Can I write things using curly brackets?       {Yes I can!}
+Can I write things using vertical "brackets"?  |Yes I can!|
+
+Could I have just generated a random sequence of characters
+instead of typing this file?
+
+Yes, but where is the fun in that.
+
+EOF

@@ -1,0 +1,12 @@
+matrix 3
+0 1 1
+0 0 1
+0 0 0
+member 0 0
+member 1 2
+list 4
+1 1
+2 2
+-
+member 0 0
+member 1 1

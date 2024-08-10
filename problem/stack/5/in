@@ -1,0 +1,49 @@
+push 1
+push 12
+push 123
+pop
+push 1234
+push 12345
+pop
+push 123456
+push 1234567
+pop
+push 12345678
+push 123456789
+pop
+push 1234567890
+push 2000000000
+pop
+push -1
+push -12
+push -123
+pop
+push -1234
+push -12345
+pop
+push -123456
+push -1234567
+pop
+push -12345678
+push -123456789
+pop
+push -1234567890
+push -2000000000
+pop
+push -9
+push -98
+push -987
+pop
+push -9876
+push -98765
+pop
+push -987654
+push -9876543
+pop
+push -98765432
+push -987654321
+pop
+pop
+pop
+pop
+pop

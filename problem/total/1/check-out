@@ -1,0 +1,9 @@
+#!/bin/bash
+#
+# checks if the reference output string appears anywhere in program output
+#
+# usage:
+#   check-out reference/out run/out
+#
+# Copyright (C) 2020  Rudy Matela
+grep -qi `cat $1` $2

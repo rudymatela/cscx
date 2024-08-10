@@ -1,0 +1,8 @@
+union set 010 020 030 set 10 20 30
+union set 020 030 040 set 40 50 60
+intersection set 010 020 030 set 10 20 30
+intersection set 020 030 040 set 40 50 60
+union set 10 20 30 set 010 020 030
+union set 20 30 40 set 040 050 060
+intersection set 10 20 30 set 010 020 030
+intersection set 22 33 44 set 044 055 066

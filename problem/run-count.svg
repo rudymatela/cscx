@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="60mm" height="40mm" viewBox="5 -1 222 150" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2022 Rudy Matela -->
+  <title>Run count -- cscx.org/run-count</title>
+  <desc>Run count -- cscx.org/run-count.  Copyright (C) 2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="2.25778" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="86.6417">
+      <tspan x="190" y="86.6417">title: Run count -- cscx.org/run-count</tspan>
+      <tspan x="190" y="89.4639">Copyright (C) 2022 Rudy Matela</tspan>
+      <tspan x="190" y="92.2861">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="190" y="95.1083">Originally available on https://cscx.org/run-count.svg</tspan>
+    </text>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="160,50 200,50 220,70 220,130 160,130 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="200,50 220,70 200,70 "/>
+    <rect style="fill: #ffffdd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="6" y="86" width="88" height="48" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="24.95">
+      <tspan x="180" y="24.95">2</tspan>
+    </text>
+    <polygon style="fill: #ddffee; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="80,0 150,0 140,40 70,40 "/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="24.95">
+      <tspan x="110" y="24.95">program</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 180 46 C 180,26 169.522,20 151.758,20"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="160.64,15 150.64,20 160.64,25 "/>
+    </g>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="10" y="90" width="80" height="40" rx="0" ry="0"/>
+    <text font-size="12.8016" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="114.95">
+      <tspan x="50" y="114.95">run #3</tspan>
+    </text>
+    <rect style="fill: #ffffdd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="44" y="134" width="12" height="4" rx="0" ry="0"/>
+    <rect style="fill: #ffffdd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="34" y="138" width="32" height="4" rx="0" ry="0"/>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 70.4935 20 C 50.4935,20 50,62 50,79.7639"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="45,70.882 50,80.882 55,70.882 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="190" y="144.95">
+      <tspan x="190" y="144.95">runcount.txt</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 110 44.3097 C 110,64.3097 116,110 153.764,110"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="144.882,115 154.882,110 144.882,105 "/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="84.95">
+      <tspan x="130" y="84.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="74.95">
+      <tspan x="180" y="74.95">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="114.95">
+      <tspan x="180" y="114.95">3</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #dd2222" x1="170" y1="76" x2="190" y2="64"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #dd2222" x1="190" y1="76" x2="170" y2="64"/>
+  </g>
+</svg>

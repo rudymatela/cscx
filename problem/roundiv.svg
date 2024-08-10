@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="125mm" height="30mm" viewBox="-1 -1 482 104" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2022-2023 Rudy Matela -->
+  <title>Rounded division of integers - cscx.org/roundiv</title>
+  <desc>Rounded division of integers - cscx.org/roundiv.  Copyright (C) 2022-2023 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="240" y1="60" x2="240" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="60" y1="60" x2="60" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="0" y1="60" x2="0" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="120" y1="60" x2="120" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="180" y1="60" x2="180" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="480" y1="60" x2="480" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke-dasharray: 6.6; stroke: #777777" x1="360" y1="60" x2="360" y2="0"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="20" x2="160" y2="20"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="60" x2="180" y2="60"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="10" x2="0" y2="30"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="160" y1="10" x2="160" y2="30"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="0" y1="50" x2="0" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="60" y1="50" x2="60" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="120" y1="50" x2="120" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="180" y1="50" x2="180" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="240" y1="20" x2="420" y2="20"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="240" y1="60" x2="480" y2="60"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="240" y1="10" x2="240" y2="30"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="420" y1="10" x2="420" y2="30"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="240" y1="50" x2="240" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="360" y1="50" x2="360" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 2; stroke: #000000" x1="480" y1="50" x2="480" y2="70"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="14.95">
+      <tspan x="330" y="14.95">18</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="14.95">
+      <tspan x="80" y="14.95">8</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="54.95">
+      <tspan x="30" y="54.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="54.95">
+      <tspan x="90" y="54.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="54.95">
+      <tspan x="150" y="54.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="54.95">
+      <tspan x="300" y="54.95">12</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="54.95">
+      <tspan x="420" y="54.95">12</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="97.225">
+      <tspan x="90" y="97.225">8 ÷ 3 = 3</tspan>
+    </text>
+    <text font-size="18.6267" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="97.225">
+      <tspan x="360" y="97.225">18 ÷ 12 = 2</tspan>
+    </text>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1.6; stroke: #000000" cx="74.4" cy="90.6" rx="8" ry="8"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1.6; stroke: #000000" cx="344.4" cy="90.6" rx="8.2" ry="8.2"/>
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="84.975">
+      <tspan x="210" y="84.975">title: Rounded division of integers - cscx.org/roundiv</tspan>
+      <tspan x="210" y="89.2083">Copyright (C) 2022-2023 Rudy Matela</tspan>
+      <tspan x="210" y="93.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="210" y="97.675">Originally available on https://cscx.org/roundiv.svg</tspan>
+    </text>
+  </g>
+</svg>

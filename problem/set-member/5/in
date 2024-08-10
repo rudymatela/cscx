@@ -1,0 +1,27 @@
+set 0 99
+member 0
+member 1
+member 2
+member 3
+member 97
+member 98
+member 99
+set 0 1 98 99
+member 0
+member 1
+member 2
+member 3
+member 97
+member 98
+member 99
+set 12 34 56 78 90
+member 12
+member 34
+member 56
+member 78
+member 90
+member 21
+member 43
+member 65
+member 87
+member 9

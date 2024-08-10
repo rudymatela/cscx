@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="45mm" height="50mm" viewBox="-1 -1 162 182" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>a calculator that works on sets (cscx.org/set-calc)</title>
+  <desc>a calculator that works on sets (cscx.org/set-calc).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="34.975">
+      <tspan x="80" y="34.975">title: a calculator that works on sets (cscx.org/set-calc)</tspan>
+      <tspan x="80" y="39.2083">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="80" y="43.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="80" y="47.675">Originally available on https://cscx.org/set-calc.svg</tspan>
+    </text>
+    <rect style="fill: #cccccc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="0" y="0" width="160" height="180" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="60" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="40.5858" y="60.5858" width="19.4142" height="19.4142" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="70" y="60" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="90" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="40" y="90" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="70" y="90" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="120" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="40" y="120" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="70" y="120" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="150" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="120" width="20" height="50" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="90" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="40" y="150" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="60" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="74.95">
+      <tspan x="20" y="74.95">7</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50.2928" y="75.2428">
+      <tspan x="50.2928" y="75.2428">8</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="74.95">
+      <tspan x="80" y="74.95">9</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="104.95">
+      <tspan x="20" y="104.95">4</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="104.95">
+      <tspan x="50" y="104.95">5</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="104.95">
+      <tspan x="80" y="104.95">6</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="134.95">
+      <tspan x="20" y="134.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="134.95">
+      <tspan x="50" y="134.95">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="134.95">
+      <tspan x="80" y="134.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="164.95">
+      <tspan x="20" y="164.95">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="164.95">
+      <tspan x="50" y="164.95">,</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="149.425">
+      <tspan x="110" y="149.425">∪</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="104.425">
+      <tspan x="110" y="104.425">∩</tspan>
+    </text>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="130" y="60" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="74.425">
+      <tspan x="140" y="74.425">⊆</tspan>
+    </text>
+    <rect style="fill: #eeeeee; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="30" width="140" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="130" y="90" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="104.95">
+      <tspan x="140" y="104.95">\</tspan>
+    </text>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="130" y="120" width="20" height="50" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="149.95">
+      <tspan x="140" y="149.95">=</tspan>
+    </text>
+    <text font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="43.525">
+      <tspan x="140" y="43.525">{1,2,3} ∩ {2,3,4} = {2,3}</tspan>
+    </text>
+    <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="90" y="10" width="60" height="10" rx="2" ry="2"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x1="110" y1="10" x2="110" y2="20"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x1="130" y1="10" x2="130" y2="20"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="70" y="150" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="164.425">
+      <tspan x="80" y="164.425">∅</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="74.425">
+      <tspan x="110" y="74.425">∈</tspan>
+    </text>
+  </g>
+</svg>

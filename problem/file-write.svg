@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="60mm" height="40mm" viewBox="5 -1 221 160" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2022 Rudy Matela -->
+  <title>Writing to a file -- cscx.org/file-write</title>
+  <desc>Writing to a file -- cscx.org/file-write.  Copyright (C) 2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="94.975">
+      <tspan x="180" y="94.975">title: Writing to a file -- cscx.org/file-write</tspan>
+      <tspan x="180" y="99.2083">Copyright (C) 2022 Rudy Matela</tspan>
+      <tspan x="180" y="103.442">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="180" y="107.675">Originally available on https://cscx.org/file-write.svg</tspan>
+    </text>
+    <rect style="fill: #ffffdd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="6" y="76" width="88" height="48" rx="0" ry="0"/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="150,60 190,60 210,80 210,140 150,140 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="190,60 210,80 190,80 "/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="154.95">
+      <tspan x="180" y="154.95">file.txt</tspan>
+    </text>
+    <polygon style="fill: #ddffee; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="80,0 150,0 140,40 70,40 "/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="24.95">
+      <tspan x="110" y="24.95">program</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 149.516 20 C 169.516,20 180,35.5011 180,53.265"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="175,44.3831 180,54.3831 185,44.3831 "/>
+    </g>
+    <text font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="178" y="20">
+      <tspan x="178" y="20">Hello</tspan>
+      <tspan x="178" y="31.2889">file system.</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="10" y="80" width="80" height="40" rx="0" ry="0"/>
+    <text font-size="9.03111" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="50" y="92.2361">
+      <tspan x="50" y="92.2361">Created</tspan>
+      <tspan x="50" y="103.525">text file</tspan>
+      <tspan x="50" y="114.814">message.txt</tspan>
+    </text>
+    <rect style="fill: #ffffdd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="44" y="124" width="12" height="4" rx="0" ry="0"/>
+    <rect style="fill: #ffffdd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="34" y="128" width="32" height="4" rx="0" ry="0"/>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 70.4837 20 C 50.4837,20 50,52 50,69.7639"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="45,60.882 50,70.882 55,60.882 "/>
+    </g>
+  </g>
+</svg>

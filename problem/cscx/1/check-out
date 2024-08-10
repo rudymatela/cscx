@@ -1,0 +1,2 @@
+#!/bin/bash
+grep -qi "computer.*science.*by.*example" "$2"

@@ -1,0 +1,49 @@
+enqueue 1
+enqueue 12
+enqueue 123
+dequeue
+enqueue 1234
+enqueue 12345
+dequeue
+enqueue 123456
+enqueue 1234567
+dequeue
+enqueue 12345678
+enqueue 123456789
+dequeue
+enqueue 1234567890
+enqueue 2000000000
+dequeue
+enqueue -1
+enqueue -12
+enqueue -123
+dequeue
+enqueue -1234
+enqueue -12345
+dequeue
+enqueue -123456
+enqueue -1234567
+dequeue
+enqueue -12345678
+enqueue -123456789
+dequeue
+enqueue -1234567890
+enqueue -2000000000
+dequeue
+enqueue -9
+enqueue -98
+enqueue -987
+dequeue
+enqueue -9876
+enqueue -98765
+dequeue
+enqueue -987654
+enqueue -9876543
+dequeue
+enqueue -98765432
+enqueue -987654321
+dequeue
+dequeue
+dequeue
+dequeue
+dequeue

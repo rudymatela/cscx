@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="65mm" height="10mm" viewBox="6 -1 248 40" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Counts of digits 7 and 3 in 720 and 1337 (cscx.org/digit-count)</title>
+  <desc>Counts of digits 7 and 3 in 720 and 1337 (cscx.org/digit-count).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="2.25778" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="14.6417">
+      <tspan x="140" y="14.6417">title: Counts of digits 7 and 3 in 720 and 1337 (cscx.org/digit-count)</tspan>
+      <tspan x="140" y="17.4639">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="140" y="20.2861">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="140" y="23.1083">Originally available on https://cscx.org/digit-count.svg</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="10" y="34.95">
+      <tspan x="10" y="34.95">7</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="180" y="34.95">
+      <tspan x="180" y="34.95">3</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" d="M 18 22 C 50,0 60,0 72.7995,20.1135"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" points="63.8127,15.3045 73.3998,21.0568 72.2493,9.93577 "/>
+    </g>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="80" y="34.95">
+      <tspan x="80" y="34.95">7</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="34.95">
+      <tspan x="90" y="34.95">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="34.95">
+      <tspan x="100" y="34.95">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="34.95">
+      <tspan x="220" y="34.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="230" y="34.95">
+      <tspan x="230" y="34.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:700" x="240" y="34.95">
+      <tspan x="240" y="34.95">3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="250" y="34.95">
+      <tspan x="250" y="34.95">7</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 6.6; stroke: #000000" x1="140" y1="0" x2="140" y2="36"/>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" d="M 184 20 C 200,10 206,0 222.504,18.3379"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="212.846,15.0809 223.252,19.169 220.279,8.39121 "/>
+    </g>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" d="M 184 20 C 210,-10 230,0 235.357,17.8582"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="228.016,10.7876 235.679,18.9291 237.594,7.91412 "/>
+    </g>
+    <text font-size="6.20889" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="188" y="10.4">
+      <tspan x="188" y="10.4">2×</tspan>
+    </text>
+    <text font-size="6.20889" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="12.4">
+      <tspan x="20" y="12.4">1×</tspan>
+    </text>
+  </g>
+</svg>

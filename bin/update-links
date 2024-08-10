@@ -1,0 +1,39 @@
+#!/bin/bash
+#
+# Simple script to update exercise links.
+#
+# Copyright (C) 2021  Rudy Matela
+#
+# This program is free software; you can redistribute it and/or
+# modify it under the terms of the GNU General Public License
+# as published by the Free Software Foundation; either version 2
+# of the License, or (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+# GNU General Public License for more details.
+#
+# You should have received a copy of the GNU General Public License
+# along with this program.  If not, see <http://www.gnu.org/licenses/>.
+
+errxit() {
+	echo "$@" >&2
+	exit 1
+}
+
+begin='^\[begin-exercises\]: /begin-exercises$'
+end='^\[end-exercises\]: /end-exercises$'
+file="$1"
+
+[ -n "$file" ] || errxit "must provide file to be updated"
+grep -q "$begin" "$file" || errxit "could not find begin mark"
+grep -q "$end"   "$file" || errxit "could not find end mark"
+
+update-links() {
+	grep -B10000 "$begin" "$file"
+	grep -v "^# " problem/list | sort | sed -e 's,^.*$,[&]: /&,'
+	grep -A10000 "$end"   "$file"
+}
+
+update-links | sponge "$file"

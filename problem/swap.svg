@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="55mm" height="35mm" viewBox="-1 -1 202 122" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>Swapping a string and an int (cscx.org/swap)</title>
+  <desc>Swapping a string and an int (cscx.org/swap).  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #f8f8f8; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="54.975">
+      <tspan x="130" y="54.975">title: Swapping a string and an int (cscx.org/swap)</tspan>
+      <tspan x="130" y="59.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="130" y="63.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="130" y="67.675">Originally available on https://cscx.org/swap.svg</tspan>
+    </text>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" cx="170" cy="20" rx="30" ry="20"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="24.95">
+      <tspan x="90" y="24.95">123</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="24.95">
+      <tspan x="170" y="24.95">abcd</tspan>
+    </text>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" cx="90" cy="20" rx="30" ry="20"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="170" y="104.95">
+      <tspan x="170" y="104.95">123</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="90" y="104.95">
+      <tspan x="90" y="104.95">abcd</tspan>
+    </text>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" cx="170" cy="100" rx="30" ry="20"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" cx="90" cy="100" rx="30" ry="20"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="0" y="24.95">
+      <tspan x="0" y="24.95">input:</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:start;font-family:sans-serif;font-style:normal;font-weight:normal" x="0" y="104.95">
+      <tspan x="0" y="104.95">output:</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="150.175" y1="39.8255" x2="111.407" y2="78.5934"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="114.152,68.7773 110.616,79.3839 121.223,75.8484 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="109.825" y1="39.8255" x2="148.593" y2="78.5934"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" points="138.777,75.8484 149.384,79.3839 145.848,68.7773 "/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 6.8; stroke: #000000" x1="0" y1="60" x2="200" y2="60"/>
+  </g>
+</svg>

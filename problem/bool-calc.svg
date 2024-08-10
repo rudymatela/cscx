@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="35mm" height="45mm" viewBox="-1 -1 122 162" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>a boolean calculator</title>
+  <desc>a boolean calculator.  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="34.975">
+      <tspan x="60" y="34.975">title: a boolean calculator</tspan>
+      <tspan x="60" y="39.2083">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="60" y="43.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="60" y="47.675">Originally available on https://cscx.org/bool-calc.svg</tspan>
+    </text>
+    <rect style="fill: #cccccc; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="0" y="0" width="120" height="160" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="110" width="40" height="40" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="60" width="40" height="40" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="120" width="20" height="30" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="90" width="20" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="60" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="134.95">
+      <tspan x="30" y="134.95">F</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="84.95">
+      <tspan x="30" y="84.95">T</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="74.425">
+      <tspan x="70" y="74.425">∨</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="104.425">
+      <tspan x="70" y="104.425">∧</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="139.95">
+      <tspan x="70" y="139.95">¬</tspan>
+    </text>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="90" y="60" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="74.425">
+      <tspan x="100" y="74.425">→</tspan>
+    </text>
+    <rect style="fill: #eeeeee; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="10" y="30" width="100" height="20" rx="2" ry="2"/>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="90" y="90" width="20" height="20" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="104.425">
+      <tspan x="100" y="104.425">⊕</tspan>
+    </text>
+    <rect style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="90" y="120" width="20" height="30" rx="2" ry="2"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="139.425">
+      <tspan x="100" y="139.425">≡</tspan>
+    </text>
+    <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="50" y="10" width="60" height="10" rx="2" ry="2"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x1="70" y1="10" x2="70" y2="20"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x1="90" y1="10" x2="90" y2="20"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:end;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="44.95">
+      <tspan x="100" y="44.95">T ∧ F  ≡  F </tspan>
+    </text>
+  </g>
+</svg>

@@ -1,0 +1,50 @@
+member 0 set
+member 1 set
+member 98 set
+member 99 set
+member 0 set 0 99
+member 1 set 0 99
+member 2 set 0 99
+member 3 set 0 99
+member 97 set 0 99
+member 98 set 0 99
+member 99 set 0 99
+member 0 set 0 1 98 99
+member 1 set 0 1 98 99
+member 2 set 0 1 98 99
+member 3 set 0 1 98 99
+member 97 set 0 1 98 99
+member 98 set 0 1 98 99
+member 99 set 0 1 98 99
+member 12 set 12 34 56 78 90
+member 34 set 12 34 56 78 90
+member 56 set 12 34 56 78 90
+member 78 set 12 34 56 78 90
+member 90 set 12 34 56 78 90
+member 21 set 12 34 56 78 90
+member 43 set 12 34 56 78 90
+member 65 set 12 34 56 78 90
+member 87 set 12 34 56 78 90
+member 9 set 12 34 56 78 90
+union set 0 set 0
+intersection set 0 set 0
+union set 0 set 1
+intersection set 0 set 1
+union set set
+intersection set set
+union set 0 set
+intersection set 0 set
+union set set 0
+intersection set 0 set
+union set set
+union set 0 set
+union set set 0
+intersection set set
+intersection set 0 set
+intersection set set 0
+difference set set
+difference set 0 set
+difference set set 0
+subset set set
+subset set 0 set
+subset set set 0

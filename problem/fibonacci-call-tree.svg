@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="185mm" height="65mm" viewBox="9 11 722 258" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2023 Rudy Matela -->
+  <title>A call tree for a naïve fibonacci function</title>
+  <desc>A call tree for a naïve fibonacci function.  Copyright (C) 2023 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="264.95">
+      <tspan x="60" y="264.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="35.5279" y1="228.944" x2="24.4721" y2="251.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="264.95">
+      <tspan x="20" y="264.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="224.95">
+      <tspan x="40" y="224.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="44.4721" y1="228.944" x2="55.5279" y2="251.056"/>
+    <text font-size="12.8" style="fill: #880044; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="184.95">
+      <tspan x="60" y="184.95">F(3)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="55.5279" y1="188.944" x2="44.4721" y2="211.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="224.95">
+      <tspan x="80" y="224.95">F(1)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="64.4721" y1="188.944" x2="75.5279" y2="211.056"/>
+    <text font-size="12.8" style="fill: #440088; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="144.95">
+      <tspan x="100" y="144.95">F(4)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #440088" x1="92.9289" y1="147.071" x2="67.0711" y2="172.929"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #440088" x1="107.071" y1="147.071" x2="132.929" y2="172.929"/>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="160" y="224.95">
+      <tspan x="160" y="224.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="135.528" y1="188.944" x2="124.472" y2="211.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="224.95">
+      <tspan x="120" y="224.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="184.95">
+      <tspan x="140" y="184.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="144.472" y1="188.944" x2="155.528" y2="211.056"/>
+    <text font-size="12.8" style="fill: #448800; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="104.95">
+      <tspan x="180" y="104.95">F(5)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="224.95">
+      <tspan x="240" y="224.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="215.528" y1="188.944" x2="204.472" y2="211.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="224.95">
+      <tspan x="200" y="224.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="220" y="184.95">
+      <tspan x="220" y="184.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="224.472" y1="188.944" x2="235.528" y2="211.056"/>
+    <text font-size="12.8" style="fill: #880044; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="240" y="144.95">
+      <tspan x="240" y="144.95">F(3)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="235.528" y1="148.944" x2="224.472" y2="171.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="184.95">
+      <tspan x="260" y="184.95">F(1)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="244.472" y1="148.944" x2="255.528" y2="171.056"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #448800" x1="162.111" y1="108.944" x2="117.889" y2="131.056"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #448800" x1="196.641" y1="111.094" x2="223.359" y2="128.906"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="280" y="64.95">
+      <tspan x="280" y="64.95">F(6)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="340" y="224.95">
+      <tspan x="340" y="224.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="315.528" y1="188.944" x2="304.472" y2="211.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="224.95">
+      <tspan x="300" y="224.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="184.95">
+      <tspan x="320" y="184.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="324.472" y1="188.944" x2="335.528" y2="211.056"/>
+    <text font-size="12.8" style="fill: #880044; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="340" y="144.95">
+      <tspan x="340" y="144.95">F(3)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="335.528" y1="148.944" x2="324.472" y2="171.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="184.95">
+      <tspan x="360" y="184.95">F(1)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="344.472" y1="148.944" x2="355.528" y2="171.056"/>
+    <text font-size="12.8" style="fill: #440088; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="104.95">
+      <tspan x="380" y="104.95">F(4)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #440088" x1="372.929" y1="107.071" x2="347.071" y2="132.929"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #440088" x1="387.071" y1="107.071" x2="412.929" y2="132.929"/>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="184.95">
+      <tspan x="440" y="184.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="415.528" y1="148.944" x2="404.472" y2="171.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="400" y="184.95">
+      <tspan x="400" y="184.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="144.95">
+      <tspan x="420" y="144.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="424.472" y1="148.944" x2="435.528" y2="171.056"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="261.43" y1="67.4278" x2="198.57" y2="92.5722"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="361.43" y1="92.5722" x2="298.57" y2="67.4278"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="24.95">
+      <tspan x="460" y="24.95">F(7)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="440.476" y1="24.3386" x2="299.524" y2="55.6614"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="620.476" y1="55.6614" x2="479.524" y2="24.3386"/>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="224.95">
+      <tspan x="520" y="224.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="495.528" y1="188.944" x2="484.472" y2="211.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="480" y="224.95">
+      <tspan x="480" y="224.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="500" y="184.95">
+      <tspan x="500" y="184.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="504.472" y1="188.944" x2="515.528" y2="211.056"/>
+    <text font-size="12.8" style="fill: #880044; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="520" y="144.95">
+      <tspan x="520" y="144.95">F(3)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="515.528" y1="148.944" x2="504.472" y2="171.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="540" y="184.95">
+      <tspan x="540" y="184.95">F(1)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="524.472" y1="148.944" x2="535.528" y2="171.056"/>
+    <text font-size="12.8" style="fill: #440088; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="560" y="104.95">
+      <tspan x="560" y="104.95">F(4)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #440088" x1="552.929" y1="107.071" x2="527.071" y2="132.929"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #440088" x1="567.071" y1="107.071" x2="592.929" y2="132.929"/>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="620" y="184.95">
+      <tspan x="620" y="184.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="595.528" y1="148.944" x2="584.472" y2="171.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="580" y="184.95">
+      <tspan x="580" y="184.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="600" y="144.95">
+      <tspan x="600" y="144.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="604.472" y1="148.944" x2="615.528" y2="171.056"/>
+    <text font-size="12.8" style="fill: #448800; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="640" y="64.95">
+      <tspan x="640" y="64.95">F(5)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #884400; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="184.95">
+      <tspan x="700" y="184.95">F(0)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="675.528" y1="148.944" x2="664.472" y2="171.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="660" y="184.95">
+      <tspan x="660" y="184.95">F(1)</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #008844; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="680" y="144.95">
+      <tspan x="680" y="144.95">F(2)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #008844" x1="684.472" y1="148.944" x2="695.528" y2="171.056"/>
+    <text font-size="12.8" style="fill: #880044; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="700" y="104.95">
+      <tspan x="700" y="104.95">F(3)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="695.528" y1="108.944" x2="684.472" y2="131.056"/>
+    <text font-size="12.8" style="fill: #004488; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="720" y="144.95">
+      <tspan x="720" y="144.95">F(1)</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #880044" x1="704.472" y1="108.944" x2="715.528" y2="131.056"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #448800" x1="622.111" y1="68.9443" x2="577.889" y2="91.0557"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #448800" x1="656.641" y1="71.094" x2="683.359" y2="88.906"/>
+    <text font-size="2.25778" style="fill: #dddddd; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="76.6417">
+      <tspan x="460" y="76.6417">title: A call tree for a naïve fibonacci function</tspan>
+      <tspan x="460" y="79.4639">Copyright (C) 2023 Rudy Matela</tspan>
+      <tspan x="460" y="82.2861">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="460" y="85.1083">Originally available on https://cscx.org/fibonacci-call-tree.svg</tspan>
+    </text>
+    <text font-size="10.16" style="fill: #444444; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="263.95">
+      <tspan x="460" y="263.95">There are unecessary recalculations throughout...  F(4) is computed three times!</tspan>
+    </text>
+  </g>
+</svg>

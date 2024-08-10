@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="140mm" height="100mm" viewBox="3 -2 547 383" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Types of scheduling conflicts - cscx.org/timetable</title>
+  <desc>Types of scheduling conflicts - cscx.org/timetable.  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="2.25778" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="84.6417">
+      <tspan x="130" y="84.6417">title: Types of scheduling conflicts - cscx.org/timetable</tspan>
+      <tspan x="130" y="87.4639">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="130" y="90.2861">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="130" y="93.1083">Originally available on https://cscx.org/timetable-conflicts.svg</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="100" y="40" width="60" height="96" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="100" y="320" width="60" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="24.95">
+      <tspan x="20" y="24.95">13:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="64.95">
+      <tspan x="20" y="64.95">14:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="104.95">
+      <tspan x="20" y="104.95">15:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="144.95">
+      <tspan x="20" y="144.95">16:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="184.95">
+      <tspan x="20" y="184.95">17:00</tspan>
+    </text>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="85.6">
+      <tspan x="130" y="85.6">Algorithms</tspan>
+      <tspan x="130" y="98.3">Class</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="120" y="140" width="60" height="40" rx="0" ry="0"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="157.6">
+      <tspan x="150" y="157.6">MFCS</tspan>
+      <tspan x="150" y="170.3">Class</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="20" x2="40" y2="180"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="0" x2="40" y2="4"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="6.66667" x2="40" y2="10.6667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="13.3333" x2="40" y2="17.3333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="200" x2="40" y2="196"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="193.333" x2="40" y2="189.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="186.667" x2="40" y2="182.667"/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="24.95">
+      <tspan x="140" y="24.95">- OK, no conflict -</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="73.7">
+      <tspan x="360" y="73.7">14:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="96.2">
+      <tspan x="360" y="96.2">15:00</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="380" y="60" width="60" height="40" rx="0" ry="0"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="410" y="77.6">
+      <tspan x="410" y="77.6">Daily</tspan>
+      <tspan x="410" y="90.3">Meeting</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="430" y="80" width="60" height="40" rx="0" ry="0"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="460" y="97.6">
+      <tspan x="460" y="97.6">Client</tspan>
+      <tspan x="460" y="110.3">Meeting</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="24.95">
+      <tspan x="440" y="24.95">- conflict -</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="64.95">
+      <tspan x="300" y="64.95">14:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="104.95">
+      <tspan x="300" y="104.95">15:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="144.95">
+      <tspan x="300" y="144.95">16:00</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="60" x2="320" y2="140"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="40" x2="320" y2="44"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="46.6667" x2="320" y2="50.6667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="53.3333" x2="320" y2="57.3333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="160" x2="320" y2="156"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="153.333" x2="320" y2="149.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="146.667" x2="320" y2="142.667"/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="380" y1="100" x2="340" y2="100"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="380" y1="60" x2="340" y2="60"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="93.7">
+      <tspan x="510" y="93.7">14:30</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="510" y="116.2">
+      <tspan x="510" y="116.2">15:30</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="530" y1="120" x2="490" y2="120"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="530" y1="80" x2="490" y2="80"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="53.7">
+      <tspan x="80" y="53.7">13:37</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="132.2">
+      <tspan x="80" y="132.2">15:59</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="100" y1="136" x2="60" y2="136"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="100" y1="40" x2="60" y2="40"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="153.7">
+      <tspan x="200" y="153.7">16:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="176.2">
+      <tspan x="200" y="176.2">17:00</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="220" y1="180" x2="180" y2="180"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="220" y1="140" x2="180" y2="140"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="264.95">
+      <tspan x="20" y="264.95">19:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="304.95">
+      <tspan x="20" y="304.95">20:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="344.95">
+      <tspan x="20" y="344.95">21:00</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="120" y="280" width="60" height="30" rx="0" ry="0"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="150" y="292.6">
+      <tspan x="150" y="292.6">Swimming</tspan>
+      <tspan x="150" y="305.3">Lessons</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="260" x2="40" y2="360"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="240" x2="40" y2="244"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="246.667" x2="40" y2="250.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="253.333" x2="40" y2="257.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="380" x2="40" y2="376"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="373.333" x2="40" y2="369.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="366.667" x2="40" y2="362.667"/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="264.95">
+      <tspan x="140" y="264.95">- OK, no conflict -</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="233.7">
+      <tspan x="360" y="233.7">18:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="360" y="316.2">
+      <tspan x="360" y="316.2">20:30</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="380" y="220" width="80" height="100" rx="0" ry="0"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="267.6">
+      <tspan x="420" y="267.6">Superhero</tspan>
+      <tspan x="420" y="280.3">Film</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="450" y="240" width="60" height="60" rx="0" ry="0"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="480" y="261.25">
+      <tspan x="480" y="261.25">City</tspan>
+      <tspan x="480" y="273.95">Walking</tspan>
+      <tspan x="480" y="286.65">Tour</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="440" y="204.95">
+      <tspan x="440" y="204.95">- conflict -</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="224.95">
+      <tspan x="300" y="224.95">18:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="264.95">
+      <tspan x="300" y="264.95">19:00</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="304.95">
+      <tspan x="300" y="304.95">20:00</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="220" x2="320" y2="340"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="200" x2="320" y2="204"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="206.667" x2="320" y2="210.667"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="213.333" x2="320" y2="217.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="360" x2="320" y2="356"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="353.333" x2="320" y2="349.333"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="320" y1="346.667" x2="320" y2="342.667"/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="380" y1="320" x2="340" y2="320"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="380" y1="220" x2="340" y2="220"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="530" y="253.7">
+      <tspan x="530" y="253.7">18:30</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="530" y="296.2">
+      <tspan x="530" y="296.2">20:00</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="550" y1="300" x2="510" y2="300"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="550" y1="240" x2="510" y2="240"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="333.7">
+      <tspan x="80" y="333.7">20:30</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="346.2">
+      <tspan x="80" y="346.2">21:15</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="100" y1="350" x2="60" y2="350"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="100" y1="320" x2="60" y2="320"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="293.7">
+      <tspan x="200" y="293.7">19:30</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="306.2">
+      <tspan x="200" y="306.2">20:15</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="220" y1="310" x2="180" y2="310"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-dasharray: 4; stroke: #000000" x1="220" y1="280" x2="180" y2="280"/>
+    <text font-size="10.16" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="130" y="332.6">
+      <tspan x="130" y="332.6">Piano</tspan>
+      <tspan x="130" y="345.3">Lessons</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="344.95">
+      <tspan x="300" y="344.95">21:00</tspan>
+    </text>
+  </g>
+</svg>

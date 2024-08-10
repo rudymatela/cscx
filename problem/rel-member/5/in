@@ -1,0 +1,2070 @@
+matrix 2
+1 0
+0 1
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 1
+1 0
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 1
+0 0
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 0
+1 0
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+1 1
+0 1
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+1 0
+1 1
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 1
+0 1
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 0
+1 1
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 1
+0 0
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 2
+0 0
+1 0
+member 0 0
+member 0 1
+member 1 0
+member 1 1
+matrix 6
+1 0 0 0 0 0
+0 1 0 0 0 0
+0 0 1 0 0 0
+0 0 0 1 0 0
+0 0 0 0 1 0
+0 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 1 1 1 1 1
+1 0 1 1 1 1
+1 1 0 1 1 1
+1 1 1 0 1 1
+1 1 1 1 0 1
+1 1 1 1 1 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 1 1 1 1 1
+0 0 1 1 1 1
+0 0 0 1 1 1
+0 0 0 0 1 1
+0 0 0 0 0 1
+0 0 0 0 0 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 0 0 0 0 0
+1 0 0 0 0 0
+1 1 0 0 0 0
+1 1 1 0 0 0
+1 1 1 1 0 0
+1 1 1 1 1 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+1 1 1 1 1 1
+0 1 1 1 1 1
+0 0 1 1 1 1
+0 0 0 1 1 1
+0 0 0 0 1 1
+0 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+1 0 0 0 0 0
+1 1 0 0 0 0
+1 1 1 0 0 0
+1 1 1 1 0 0
+1 1 1 1 1 0
+1 1 1 1 1 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 1 1 1 1 1
+0 1 0 0 0 0
+0 1 1 0 0 0
+0 1 0 1 0 0
+0 1 1 0 1 0
+0 1 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 0 0 0 0 0
+1 1 1 1 1 1
+1 0 1 0 1 0
+1 0 0 1 0 0
+1 0 0 0 1 0
+1 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 1 0 0 0 0
+0 0 1 0 0 0
+0 0 0 1 0 0
+0 0 0 0 1 0
+0 0 0 0 0 1
+0 0 0 0 0 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 6
+0 0 0 0 0 0
+1 0 0 0 0 0
+0 1 0 0 0 0
+0 0 1 0 0 0
+0 0 0 1 0 0
+0 0 0 0 1 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+matrix 12
+1 0 0 0 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 1 1 1 1 1 1 1 1 1 1 1
+1 0 1 1 1 1 1 1 1 1 1 1
+1 1 0 1 1 1 1 1 1 1 1 1
+1 1 1 0 1 1 1 1 1 1 1 1
+1 1 1 1 0 1 1 1 1 1 1 1
+1 1 1 1 1 0 1 1 1 1 1 1
+1 1 1 1 1 1 0 1 1 1 1 1
+1 1 1 1 1 1 1 0 1 1 1 1
+1 1 1 1 1 1 1 1 0 1 1 1
+1 1 1 1 1 1 1 1 1 0 1 1
+1 1 1 1 1 1 1 1 1 1 0 1
+1 1 1 1 1 1 1 1 1 1 1 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 1 1 1 1 1 1 1 1 1 1 1
+0 0 1 1 1 1 1 1 1 1 1 1
+0 0 0 1 1 1 1 1 1 1 1 1
+0 0 0 0 1 1 1 1 1 1 1 1
+0 0 0 0 0 1 1 1 1 1 1 1
+0 0 0 0 0 0 1 1 1 1 1 1
+0 0 0 0 0 0 0 1 1 1 1 1
+0 0 0 0 0 0 0 0 1 1 1 1
+0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 1 1
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 0 0 0 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0 0 0 0
+1 1 0 0 0 0 0 0 0 0 0 0
+1 1 1 0 0 0 0 0 0 0 0 0
+1 1 1 1 0 0 0 0 0 0 0 0
+1 1 1 1 1 0 0 0 0 0 0 0
+1 1 1 1 1 1 0 0 0 0 0 0
+1 1 1 1 1 1 1 0 0 0 0 0
+1 1 1 1 1 1 1 1 0 0 0 0
+1 1 1 1 1 1 1 1 1 0 0 0
+1 1 1 1 1 1 1 1 1 1 0 0
+1 1 1 1 1 1 1 1 1 1 1 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+1 1 1 1 1 1 1 1 1 1 1 1
+0 1 1 1 1 1 1 1 1 1 1 1
+0 0 1 1 1 1 1 1 1 1 1 1
+0 0 0 1 1 1 1 1 1 1 1 1
+0 0 0 0 1 1 1 1 1 1 1 1
+0 0 0 0 0 1 1 1 1 1 1 1
+0 0 0 0 0 0 1 1 1 1 1 1
+0 0 0 0 0 0 0 1 1 1 1 1
+0 0 0 0 0 0 0 0 1 1 1 1
+0 0 0 0 0 0 0 0 0 1 1 1
+0 0 0 0 0 0 0 0 0 0 1 1
+0 0 0 0 0 0 0 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+1 0 0 0 0 0 0 0 0 0 0 0
+1 1 0 0 0 0 0 0 0 0 0 0
+1 1 1 0 0 0 0 0 0 0 0 0
+1 1 1 1 0 0 0 0 0 0 0 0
+1 1 1 1 1 0 0 0 0 0 0 0
+1 1 1 1 1 1 0 0 0 0 0 0
+1 1 1 1 1 1 1 0 0 0 0 0
+1 1 1 1 1 1 1 1 0 0 0 0
+1 1 1 1 1 1 1 1 1 0 0 0
+1 1 1 1 1 1 1 1 1 1 0 0
+1 1 1 1 1 1 1 1 1 1 1 0
+1 1 1 1 1 1 1 1 1 1 1 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 1 1 1 1 1 1 1 1 1 1 1
+0 1 0 0 0 0 0 0 0 0 0 0
+0 1 1 0 0 0 0 0 0 0 0 0
+0 1 0 1 0 0 0 0 0 0 0 0
+0 1 1 0 1 0 0 0 0 0 0 0
+0 1 0 0 0 1 0 0 0 0 0 0
+0 1 1 1 0 0 1 0 0 0 0 0
+0 1 0 0 0 0 0 1 0 0 0 0
+0 1 1 0 1 0 0 0 1 0 0 0
+0 1 0 1 0 0 0 0 0 1 0 0
+0 1 1 0 0 1 0 0 0 0 1 0
+0 1 0 0 0 0 0 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 0 0 0 0 0 0 0 0 0 0 0
+1 1 1 1 1 1 1 1 1 1 1 1
+1 0 1 0 1 0 1 0 1 0 1 0
+1 0 0 1 0 0 1 0 0 1 0 0
+1 0 0 0 1 0 0 0 1 0 0 0
+1 0 0 0 0 1 0 0 0 0 1 0
+1 0 0 0 0 0 1 0 0 0 0 0
+1 0 0 0 0 0 0 1 0 0 0 0
+1 0 0 0 0 0 0 0 1 0 0 0
+1 0 0 0 0 0 0 0 0 1 0 0
+1 0 0 0 0 0 0 0 0 0 1 0
+1 0 0 0 0 0 0 0 0 0 0 1
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 1 0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 1 0
+0 0 0 0 0 0 0 0 0 0 0 1
+0 0 0 0 0 0 0 0 0 0 0 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11
+matrix 12
+0 0 0 0 0 0 0 0 0 0 0 0
+1 0 0 0 0 0 0 0 0 0 0 0
+0 1 0 0 0 0 0 0 0 0 0 0
+0 0 1 0 0 0 0 0 0 0 0 0
+0 0 0 1 0 0 0 0 0 0 0 0
+0 0 0 0 1 0 0 0 0 0 0 0
+0 0 0 0 0 1 0 0 0 0 0 0
+0 0 0 0 0 0 1 0 0 0 0 0
+0 0 0 0 0 0 0 1 0 0 0 0
+0 0 0 0 0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 0 0 1 0 0
+0 0 0 0 0 0 0 0 0 0 1 0
+member 0 0
+member 0 1
+member 0 2
+member 0 3
+member 0 4
+member 0 5
+member 0 6
+member 0 7
+member 0 8
+member 0 9
+member 0 10
+member 0 11
+member 1 0
+member 1 1
+member 1 2
+member 1 3
+member 1 4
+member 1 5
+member 1 6
+member 1 7
+member 1 8
+member 1 9
+member 1 10
+member 1 11
+member 2 0
+member 2 1
+member 2 2
+member 2 3
+member 2 4
+member 2 5
+member 2 6
+member 2 7
+member 2 8
+member 2 9
+member 2 10
+member 2 11
+member 3 0
+member 3 1
+member 3 2
+member 3 3
+member 3 4
+member 3 5
+member 3 6
+member 3 7
+member 3 8
+member 3 9
+member 3 10
+member 3 11
+member 4 0
+member 4 1
+member 4 2
+member 4 3
+member 4 4
+member 4 5
+member 4 6
+member 4 7
+member 4 8
+member 4 9
+member 4 10
+member 4 11
+member 5 0
+member 5 1
+member 5 2
+member 5 3
+member 5 4
+member 5 5
+member 5 6
+member 5 7
+member 5 8
+member 5 9
+member 5 10
+member 5 11
+member 6 0
+member 6 1
+member 6 2
+member 6 3
+member 6 4
+member 6 5
+member 6 6
+member 6 7
+member 6 8
+member 6 9
+member 6 10
+member 6 11
+member 7 0
+member 7 1
+member 7 2
+member 7 3
+member 7 4
+member 7 5
+member 7 6
+member 7 7
+member 7 8
+member 7 9
+member 7 10
+member 7 11
+member 8 0
+member 8 1
+member 8 2
+member 8 3
+member 8 4
+member 8 5
+member 8 6
+member 8 7
+member 8 8
+member 8 9
+member 8 10
+member 8 11
+member 9 0
+member 9 1
+member 9 2
+member 9 3
+member 9 4
+member 9 5
+member 9 6
+member 9 7
+member 9 8
+member 9 9
+member 9 10
+member 9 11
+member 10 0
+member 10 1
+member 10 2
+member 10 3
+member 10 4
+member 10 5
+member 10 6
+member 10 7
+member 10 8
+member 10 9
+member 10 10
+member 10 11
+member 11 0
+member 11 1
+member 11 2
+member 11 3
+member 11 4
+member 11 5
+member 11 6
+member 11 7
+member 11 8
+member 11 9
+member 11 10
+member 11 11

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="90mm" height="25mm" viewBox="6 0 341 91" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Total / Sum (cscx.org/total)</title>
+  <desc>Total / Sum (cscx.org/total).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #f8f8f8; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="24.975">
+      <tspan x="210" y="24.975">title: Total / Sum (cscx.org/total)</tspan>
+      <tspan x="210" y="29.2083">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="210" y="33.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="210" y="37.675">Originally available on https://cscx.org/sum.svg</tspan>
+    </text>
+    <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="260" cy="30" rx="20" ry="20"/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="250,20 270,20 250,10 270,10 "/>
+    <text font-size="27.0933" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="210" y="60.525">
+      <tspan x="210" y="60.525">+</tspan>
+    </text>
+    <g>
+      <ellipse style="fill: #ffa040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="160" cy="40" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="170,30 160,10 180,20 190,40 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="30" x2="160" y2="10"/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffa040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="150" cy="70" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="160,60 150,40 170,50 180,70 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="150" y1="60" x2="150" y2="40"/>
+    </g>
+    <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="250" cy="50" rx="20" ry="20"/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="240,40 260,40 240,30 260,30 "/>
+    <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="270" cy="70" rx="20" ry="20"/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="260,60 280,60 260,50 280,50 "/>
+    <text font-size="27.0933" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="60.525">
+      <tspan x="330" y="60.525">= ?</tspan>
+    </text>
+    <path style="fill: #eeee00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 60 74 C 40,94 20,94 10,84 C 0,74 20,74 40,54 C 60,34 70,4 80,14 C 90,24 80,54 60,74z"/>
+    <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 30,84 A 78.4889,78.4889 0 0 0 74,36"/>
+    <polygon style="fill: #eeee00; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="76,14 80,22 84,10 80,2 "/>
+    <text font-size="27.0933" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="60.525">
+      <tspan x="110" y="60.525">+</tspan>
+    </text>
+  </g>
+</svg>

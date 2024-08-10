@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="45mm" height="25mm" viewBox="-2 -7 163 95" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Signum (cscx.org/signum)</title>
+  <desc>Signum (cscx.org/signum).  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="2.25778" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="6.64167">
+      <tspan x="80" y="6.64167">title: Signum (cscx.org/signum)</tspan>
+      <tspan x="80" y="9.46389">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="80" y="12.2861">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="80" y="15.1083">Originally available on https://cscx.org/signum.svg</tspan>
+    </text>
+    <text font-size="24.8356" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="19.625">
+      <tspan x="80" y="19.625">0</tspan>
+    </text>
+    <text font-size="24.8356" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="19.625">
+      <tspan x="120" y="19.625">+</tspan>
+    </text>
+    <text font-size="24.8356" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="19.625">
+      <tspan x="40" y="19.625">−</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="80" y1="20" x2="80" y2="47.7639"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="75,38.882 80,48.882 85,38.882 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="90" y1="30" x2="147.764" y2="30"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" points="138.882,35 148.882,30 138.882,25 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="70" y1="30" x2="12.2361" y2="30"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" points="21.118,25 11.118,30 21.118,35 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="13.2" y1="60" x2="146.8" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="0" y1="60" x2="2.64" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="4.4" y1="60" x2="7.04" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="8.8" y1="60" x2="11.44" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="160" y1="60" x2="157.36" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="155.6" y1="60" x2="152.96" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="151.2" y1="60" x2="148.56" y2="60"/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="80" y1="56" x2="80" y2="64"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="100" y1="56" x2="100" y2="64"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="120" y1="56" x2="120" y2="64"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="80" y="83.7">
+      <tspan x="80" y="83.7">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="100" y="83.7">
+      <tspan x="100" y="83.7">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="83.7">
+      <tspan x="120" y="83.7">2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="60" y="83.7">
+      <tspan x="60" y="83.7">-1</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="60" y1="56" x2="60" y2="64"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #003366" x1="140" y1="56" x2="140" y2="64"/>
+    <text font-size="12.8" style="fill: #003366; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="83.7">
+      <tspan x="140" y="83.7">3</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="40" y1="56" x2="40" y2="64"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #663300" x1="20" y1="56" x2="20" y2="64"/>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="83.7">
+      <tspan x="40" y="83.7">-2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #663300; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="20" y="83.7">
+      <tspan x="20" y="83.7">-3</tspan>
+    </text>
+  </g>
+</svg>

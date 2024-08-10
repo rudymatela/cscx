@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="65mm" height="35mm" viewBox="-1 -1 242 132" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2022 Rudy Matela -->
+  <title>A podium, 1st, 2nd and 3rd - cscx.org/ordinal</title>
+  <desc>A podium, 1st, 2nd and 3rd - cscx.org/ordinal.  Copyright (C) 2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #dddddd; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="94.975">
+      <tspan x="120" y="94.975">title: A podium, 1st, 2nd and 3rd - cscx.org/ordinal</tspan>
+      <tspan x="120" y="99.2083">Copyright (C) 2022 Rudy Matela</tspan>
+      <tspan x="120" y="103.442">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="120" y="107.675">Originally available on https://cscx.org/ordinal.svg</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="0" y="90" width="80" height="40" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="80" y="70" width="80" height="60" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="160" y="100" width="80" height="30" rx="0" ry="0"/>
+    <text font-size="12.8016" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="104.95">
+      <tspan x="120" y="104.95">1st</tspan>
+    </text>
+    <text font-size="12.8016" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="114.95">
+      <tspan x="40" y="114.95">2nd</tspan>
+    </text>
+    <text font-size="12.8016" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="200" y="119.95">
+      <tspan x="200" y="119.95">3rd</tspan>
+    </text>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="120" y1="20" x2="120" y2="50"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="120" cy="10" rx="10" ry="10"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="120" y1="20" x2="110" y2="40"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="130" y1="40" x2="120" y2="20"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="130" y1="70" x2="120" y2="50"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="120" y1="50" x2="110" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="40" x2="40" y2="70"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="40" cy="30" rx="10" ry="10"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="40" x2="30" y2="60"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="50" y1="60" x2="40" y2="40"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="50" y1="90" x2="40" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="40" y1="70" x2="30" y2="90"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="200" y1="50" x2="200" y2="80"/>
+    <ellipse style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="200" cy="40" rx="10" ry="10"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="200" y1="50" x2="190" y2="70"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="210" y1="70" x2="200" y2="50"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="210" y1="100" x2="200" y2="80"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="200" y1="80" x2="190" y2="100"/>
+  </g>
+</svg>

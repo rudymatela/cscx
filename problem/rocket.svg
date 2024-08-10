@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="55mm" height="40mm" viewBox="-1 -1 202 141" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>Rocket launch countdown</title>
+  <desc>Rocket launch countdown.  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="2.25778" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="140" y="56.6417">
+      <tspan x="140" y="56.6417">title: Rocket launch countdown</tspan>
+      <tspan x="140" y="59.4639">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="140" y="62.2861">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="140" y="65.1083">Originally available on https://cscx.org/rocket.svg</tspan>
+    </text>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="150" y="70" width="30" height="4" rx="0" ry="0"/>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="150" y="40" width="30" height="4" rx="0" ry="0"/>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="150" y="100" width="30" height="4" rx="0" ry="0"/>
+    <rect style="fill: #888888; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="130" y="110" width="20" height="20" rx="0" ry="0"/>
+    <path style="fill: #ffc080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 140 80 C 160,80 170,140 170,140 C 170,140 120,80 140,80z"/>
+    <path style="fill: #ffc080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 140 80 C 160,80 110,140 110,140 C 110,140 120,80 140,80z"/>
+    <path style="fill: #eeeeee; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 140 10 C 140,10 180,40 160,100 C 140,160 160,110 140,110 C 120,110 140,160 120,100 C 100,40 140,10 140,10z"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="140" y1="10" x2="140" y2="10"/>
+    <path style="fill: #ffc080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 140 100 C 148,100 140,140 140,140 C 140,140 132,100 140,100z"/>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="180" y="16" width="4" height="124" rx="0" ry="0"/>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="196" y="16" width="4" height="124" rx="0" ry="0"/>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="180" y="16" width="20" height="4" rx="0" ry="0"/>
+    <rect style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="184" y="132" width="12" height="4" rx="0" ry="0"/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,20 196,32 196,36 184,24 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,32 196,20 196,24 184,36 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,48 196,36 196,40 184,52 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,36 196,48 196,52 184,40 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,52 196,64 196,68 184,56 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,64 196,52 196,56 184,68 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,80 196,68 196,72 184,84 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,68 196,80 196,84 184,72 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,84 196,96 196,100 184,88 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,96 196,84 196,88 184,100 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,112 196,100 196,104 184,116 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,100 196,112 196,116 184,104 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,116 196,128 196,132 184,120 "/>
+    <polygon style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="184,128 196,116 196,120 184,132 "/>
+    <rect style="fill: #ffc080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="115" y="66" width="50" height="4" rx="0" ry="0"/>
+    <ellipse style="fill: #ffc080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="140" cy="60" rx="12" ry="12"/>
+    <ellipse style="fill: #80c0ff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="140" cy="60" rx="8" ry="8"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="140" y1="10" x2="140" y2="7.15256e-07"/>
+    <ellipse style="fill: #ffc080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="140" cy="2" rx="2" ry="2"/>
+    <polygon style="fill: #d9edff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #d9edff" fill-rule="evenodd" points="140,56 142,56 138,60 136,60 "/>
+    <polygon style="fill: #d9edff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #d9edff" fill-rule="evenodd" points="142,60 144,60 140,64 138,64 "/>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 80 60 C 80,40 60,20 40,20 C 20,20 0,40 0,60 C 0,80 20,100 40,100 C 60,100 76,84 76,84 C 76,84 100,70 100,70 C 100,70 80,76 80,72 C 80,68 80,80 80,60z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="40.95">
+      <tspan x="40" y="40.95">3</tspan>
+      <tspan x="40" y="56.95">2</tspan>
+      <tspan x="40" y="72.95">1</tspan>
+      <tspan x="40" y="88.95">Go!</tspan>
+    </text>
+  </g>
+</svg>

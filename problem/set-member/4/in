@@ -1,0 +1,25 @@
+set 1 2
+member 3
+member 2
+member 1
+member 0
+set 2
+member 3
+member 2
+member 1
+member 0
+set 1
+member 3
+member 2
+member 1
+member 0
+set 0
+member 3
+member 2
+member 1
+member 0
+set
+member 3
+member 2
+member 1
+member 0

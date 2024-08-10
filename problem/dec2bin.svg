@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="115mm" height="50mm" viewBox="4 1 457 188" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2022  Rudy Matela -->
+  <title>Converting 18 in decimal to 10010 in binary</title>
+  <desc>Converting 18 in decimal to 10010 in binary.  Copyright (C) 2022  Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #eeeeee; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="81.975">
+      <tspan x="70" y="81.975">title: Converting 18 in decimal to 10010 in binary</tspan>
+      <tspan x="70" y="86.2083">Copyright (C) 2022  Rudy Matela</tspan>
+      <tspan x="70" y="90.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="70" y="94.675">Originally available on https://cscx.org/dec2bin.svg</tspan>
+    </text>
+    <g>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="5" y="2" width="130" height="170" rx="0" ry="0"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="10" y="7" width="120" height="48" rx="0" ry="0"/>
+      <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="10" y="59" width="120" height="108" rx="0" ry="0"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="30" y1="7" x2="30" y2="167"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="70" y1="7" x2="70" y2="167"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="110" y1="7" x2="110" y2="167"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="87" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="37" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="67" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="107" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="100" y="147" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="67" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="17" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="127" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="107" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="20" y="17" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="20" y="147" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="20" y="127" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="20" y="107" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="20" y="87" width="20" height="10" rx="4" ry="4"/>
+      <rect style="fill: #ffeedd; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke: #000000" x="60" y="147" width="20" height="10" rx="4" ry="4"/>
+    </g>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke-dasharray: 4; stroke: #999999" x1="240" y1="20" x2="240" y2="140"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke-dasharray: 4; stroke: #999999" x1="280" y1="20" x2="280" y2="140"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke-dasharray: 4; stroke: #999999" x1="320" y1="20" x2="320" y2="140"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke-dasharray: 4; stroke: #999999" x1="360" y1="20" x2="360" y2="140"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke-dasharray: 4; stroke: #999999" x1="400" y1="20" x2="400" y2="140"/>
+    <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke-linejoin: round; stroke-dasharray: 4; stroke: #999999" x1="440" y1="20" x2="440" y2="140"/>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="230,60 240,60 240,40 260,40 260,60 280,60 280,40 300,40 300,60 320,60 320,40 340,40 340,60 360,60 360,40 380,40 380,60 400,60 400,40 420,40 420,60 440,60 440,40 450,40 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="220" y1="60" x2="222" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="223.333" y1="60" x2="225.333" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="226.667" y1="60" x2="228.667" y2="60"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="460" y1="40" x2="458" y2="40"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="456.667" y1="40" x2="454.667" y2="40"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="453.333" y1="40" x2="451.333" y2="40"/>
+    </g>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="300" y="114.95">
+      <tspan x="300" y="114.95">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="260" y="114.95">
+      <tspan x="260" y="114.95">1</tspan>
+    </text>
+    <g>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="230,120 240,120 240,100 280,100 280,120 320,120 360,120 360,100 400,100 400,120 440,120 450,120 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="220" y1="120" x2="222" y2="120"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="223.333" y1="120" x2="225.333" y2="120"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="226.667" y1="120" x2="228.667" y2="120"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="460" y1="120" x2="458" y2="120"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="456.667" y1="120" x2="454.667" y2="120"/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="453.333" y1="120" x2="451.333" y2="120"/>
+    </g>
+    <polygon style="fill: #ddeeff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="160,70 180,70 180,60 200,80 180,100 180,90 160,90 "/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="340" y="114.95">
+      <tspan x="340" y="114.95">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="380" y="114.95">
+      <tspan x="380" y="114.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="420" y="114.95">
+      <tspan x="420" y="114.95">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="184.95">
+      <tspan x="30" y="184.95">0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="184.95">
+      <tspan x="70" y="184.95">1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="110" y="184.95">
+      <tspan x="110" y="184.95">8</tspan>
+    </text>
+  </g>
+</svg>

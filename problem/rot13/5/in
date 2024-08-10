@@ -1,0 +1,149 @@
+BOF
+
+Here is a small description of how the test cases of the rot13 exercise of CScx
+are structured.
+
+1. The example I/O test cases found in desc.md;
+2. Also the example I/O test cases;
+3. Uses the letters found in the example I/O test cases;
+4. Uses all letters of the English alphabet;
+5. This very text file.  Uses letter numbers and some symbols;
+6. Just a 100 bytes wide base64 sequence generated from this file.
+
+
+Copyright (C) 2020-2023  Rudy Matela
+
+
+Here is more text:
+
+
+Did you know that one plus one equals two?
+In symbolic terms, one can write:
+
+	1 + 1 = 2
+
+Using symbols we can represent mathematical expressions concisely.
+For example, two thirds can be written as simply 2/3.
+
+Here are all the decimal digits:
+
+	0123456789
+
+Here are all the hexadecimal digits:
+
+	0123456789ABCDEF
+
+or, using lowercase:
+
+	0123456789abcdef
+
+Here is a quote using double quotes "Bla bla bla".
+Here is a quote using single quotes 'Bla bla bla'.
+Here are some mathematical expressions:
+
+	1 / 10 + 7 + 2x + y * y ** 2.
+	1 < 2
+	100 < 1000
+	1000 > 200
+
+One can write and as &.
+
+100% of people are people.
+50% of people are half of people.
+66% of people are two thirds of people.
+33% of people are one third of people.
+
+My email is person@example.com,
+that is my #1 email.
+
+I have $100.99 dollars.
+
+I have approximately $99.99 dollar!
+I have ~ $99.9 dollars!
+
+Can I write things using round brackets?       (Yes I can!)
+Can I write things using square brackets?      [Yes I can!]
+Can I write things using curly brackets?       {Yes I can!}
+Can I write things using vertical "brackets"?  |Yes I can!|
+
+Could I have just generated a random sequence of characters
+instead of typing this file?
+
+Yes, but where is the fun in that.
+
+EOF
+-------------------------------------------------------------------------------
+OBS
+
+Urer vf n fznyy qrfpevcgvba bs ubj gur grfg pnfrf bs gur ebg13 rkrepvfr bs PFpk
+ner fgehpgherq.
+
+1. Gur rknzcyr V/B grfg pnfrf sbhaq va qrfp.zq;
+2. Nyfb gur rknzcyr V/B grfg pnfrf;
+3. Hfrf gur yrggref sbhaq va gur rknzcyr V/B grfg pnfrf;
+4. Hfrf nyy yrggref bs gur Ratyvfu nycunorg;
+5. Guvf irel grkg svyr.  Hfrf yrggre ahzoref naq fbzr flzobyf;
+6. Whfg n 100 olgrf jvqr onfr64 frdhrapr trarengrq sebz guvf svyr.
+
+
+Pbclevtug (P) 2020-2023  Ehql Zngryn
+
+
+Urer vf zber grkg:
+
+
+Qvq lbh xabj gung bar cyhf bar rdhnyf gjb?
+Va flzobyvp grezf, bar pna jevgr:
+
+	1 + 1 = 2
+
+Hfvat flzobyf jr pna ercerfrag zngurzngvpny rkcerffvbaf pbapvfryl.
+Sbe rknzcyr, gjb guveqf pna or jevggra nf fvzcyl 2/3.
+
+Urer ner nyy gur qrpvzny qvtvgf:
+
+	0123456789
+
+Urer ner nyy gur urknqrpvzny qvtvgf:
+
+	0123456789NOPQRS
+
+be, hfvat ybjrepnfr:
+
+	0123456789nopqrs
+
+Urer vf n dhbgr hfvat qbhoyr dhbgrf "Oyn oyn oyn".
+Urer vf n dhbgr hfvat fvatyr dhbgrf 'Oyn oyn oyn'.
+Urer ner fbzr zngurzngvpny rkcerffvbaf:
+
+	1 / 10 + 7 + 2k + l * l ** 2.
+	1 < 2
+	100 < 1000
+	1000 > 200
+
+Bar pna jevgr naq nf &.
+
+100% bs crbcyr ner crbcyr.
+50% bs crbcyr ner unys bs crbcyr.
+66% bs crbcyr ner gjb guveqf bs crbcyr.
+33% bs crbcyr ner bar guveq bs crbcyr.
+
+Zl rznvy vf crefba@rknzcyr.pbz,
+gung vf zl #1 rznvy.
+
+V unir $100.99 qbyynef.
+
+V unir nccebkvzngryl $99.99 qbyyne!
+V unir ~ $99.9 qbyynef!
+
+Pna V jevgr guvatf hfvat ebhaq oenpxrgf?       (Lrf V pna!)
+Pna V jevgr guvatf hfvat fdhner oenpxrgf?      [Lrf V pna!]
+Pna V jevgr guvatf hfvat pheyl oenpxrgf?       {Lrf V pna!}
+Pna V jevgr guvatf hfvat iregvpny "oenpxrgf"?  |Lrf V pna!|
+
+Pbhyq V unir whfg trarengrq n enaqbz frdhrapr bs punenpgref
+vafgrnq bs glcvat guvf svyr?
+
+Lrf, ohg jurer vf gur sha va gung.
+
+RBS

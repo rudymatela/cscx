@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="95mm" height="50mm" viewBox="-1 -2 362 183" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>The world saying "Hello!" and "Hello, World!" several times</title>
+  <desc>The world saying "Hello!" and "Hello, World!" several times.  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="180" y="84.975">
+      <tspan x="180" y="84.975">title: The world saying "Hello!" and "Hello, World!" several times</tspan>
+      <tspan x="180" y="89.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="180" y="93.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="180" y="97.675">Originally available on https://cscx.org/hellos.svg</tspan>
+    </text>
+    <ellipse style="fill: #88ccff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="180" cy="90" rx="90" ry="90"/>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 350 30 C 350,10 330,10 320,10 C 310,10 290,10 290,30 C 290,50 290,38 290,42 C 290,46 270,50 270,50 C 270,50 310,50 320,50 C 330,50 350,50 350,30z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="34.95">
+      <tspan x="320" y="34.95">Hello!</tspan>
+    </text>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="140,160 180,110 160,100 150,90 130,90 120,110 140,120 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="130,90 130,80 130,70 140,70 150,40 120,30 100,50 120,80 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="220,140 230,130 240,110 250,90 230,60 200,60 180,70 180,90 200,100 210,130 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="260,70 270,80 260,50 246,28 242,24 220,10 210,30 210,40 200,40 180,60 209.94,49.3352 220,50 250,80 "/>
+    <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="170,30 180,10 160,10 "/>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="180,180 206,176 220,170 150,170 150,160 140,170 154,176 "/>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 360 90 C 360,70 340,70 330,70 C 320,70 302,70 300,80 C 298,90 280,90 280,90 C 280,90 298,90 300,100 C 302,110 320,110 330,110 C 340,110 360,110 360,90z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="330" y="86.95">
+      <tspan x="330" y="86.95">Hello,</tspan>
+      <tspan x="330" y="102.95">World!</tspan>
+    </text>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 350 150 C 350,130 330,130 320,130 C 310,130 292,130 290,140 C 288,150 270,140 270,140 C 270,140 288,150 290,160 C 292,170 310,170 320,170 C 330,170 350,170 350,150z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="320" y="146.95">
+      <tspan x="320" y="146.95">Hello,</tspan>
+      <tspan x="320" y="162.95">World!</tspan>
+    </text>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 60 70 C 60,50 50,40 30,40 C 10,40 0,50 0,70 C 0,90 10,100 30,100 C 50,100 80,90 80,90 C 80,90 60,90 60,80 C 60,70 60,90 60,70z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="30" y="66.95">
+      <tspan x="30" y="66.95">Hello,</tspan>
+      <tspan x="30" y="82.95">World!</tspan>
+    </text>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 70 150 C 70,130 70,150 70,140 C 70,130 90,130 90,130 C 90,130 60,120 40,120 C 20,120 10,130 10,150 C 10,170 20,180 40,180 C 60,180 70,170 70,150z"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="40" y="146.95">
+      <tspan x="40" y="146.95">Hello,</tspan>
+      <tspan x="40" y="162.95">World!</tspan>
+    </text>
+    <path style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" d="M 90 20 C 90,10 80,0 70,0 C 60,0 50,10 50,20 C 50,30 60,40 70,40 C 80,40 100,40 100,40 C 100,40 90,40 90,30 C 90,20 90,30 90,20z"/>
+    <text font-size="9.59556" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="70" y="23.725">
+      <tspan x="70" y="23.725">Hello!</tspan>
+    </text>
+  </g>
+</svg>

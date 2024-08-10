@@ -1,0 +1,43 @@
+member 3 set 1 2
+member 2 set 1 2
+member 1 set 1 2
+member 0 set 1 2
+member 3 set 2
+member 2 set 2
+member 1 set 2
+member 0 set 2
+member 3 set 1
+member 2 set 1
+member 1 set 1
+member 0 set 1
+member 3 set 0
+member 2 set 0
+member 1 set 0
+member 0 set 0
+union set 1 set 2
+intersection set 1 set 2
+union set 1 set 1
+intersection set 2 set 2
+union set 1 99 set 2 98
+union set 0 99 set 0 99
+intersection set 0 set 0
+intersection set 0 set 1
+intersection set 1 set 0
+subset set 0 set 0
+subset set 0 set 1
+subset set 1 set 0
+subset set 0 set 0 1
+subset set 1 set 0 1
+subset set 2 set 0 1
+subset set 0 1 set 0
+subset set 0 1 set 1
+subset set 0 1 set 2
+difference set 0 set 0
+difference set 0 set 1
+difference set 1 set 0
+difference set 0 set 0 1
+difference set 1 set 0 1
+difference set 2 set 0 1
+difference set 0 1 set 0
+difference set 0 1 set 1
+difference set 0 1 set 2

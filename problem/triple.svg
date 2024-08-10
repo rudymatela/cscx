@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="75mm" height="35mm" viewBox="-2 -2 283 133" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2021 Rudy Matela -->
+  <title>Triple, 2x3 = 6 (cscx.org/triple)</title>
+  <desc>Triple, 2x3 = 6 (cscx.org/triple).  Copyright (C) 2020-2021 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <g id="Background"/>
+  <g id="Background">
+    <g>
+      <ellipse style="fill: #ffa040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="20" cy="60" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="30,50 20,30 40,40 50,60 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="20" y1="50" x2="20" y2="30"/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="140" y1="70" x2="172.292" y2="86.1459"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="179,89.5 167.82,89.5 172.292,86.1459 172.292,80.5557 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="40" cy="80" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="30,70 50,70 30,60 50,60 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="140" y1="60" x2="181.382" y2="60"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="188.882,60 178.882,65 181.382,60 178.882,55 "/>
+    </g>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="140" y1="50" x2="191.824" y2="32.7253"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="198.939,30.3536 191.034,38.2592 191.824,32.7253 187.871,28.7724 "/>
+    </g>
+    <text font-size="27.0933" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="70.525">
+      <tspan x="120" y="70.525">×3</tspan>
+    </text>
+    <g>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="60" y1="60" x2="91.382" y2="60"/>
+      <polygon style="fill: #000000; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="98.882,60 88.882,65 91.382,60 88.882,55 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffa040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="230" cy="30" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="240,20 230,0 250,10 260,30 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="230" y1="20" x2="230" y2="0"/>
+    </g>
+    <g>
+      <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="260" cy="50" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="250,40 270,40 250,30 270,30 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffa040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="220" cy="60" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="230,50 220,30 240,40 250,60 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="220" y1="50" x2="220" y2="30"/>
+    </g>
+    <g>
+      <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="250" cy="80" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="240,70 260,70 240,60 260,60 "/>
+    </g>
+    <g>
+      <ellipse style="fill: #ffa040; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="210" cy="90" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="220,80 210,60 230,70 240,90 "/>
+      <line style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x1="210" y1="80" x2="210" y2="60"/>
+    </g>
+    <g>
+      <ellipse style="fill: #ff8080; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" cx="240" cy="110" rx="20" ry="20"/>
+      <polygon style="fill: #88cc88; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="230,100 250,100 230,90 250,90 "/>
+    </g>
+    <text font-size="3.38667" style="fill: #f8f8f8; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="120" y="14.975">
+      <tspan x="120" y="14.975">title: Triple, 2x3 = 6 (cscx.org/triple)</tspan>
+      <tspan x="120" y="19.2083">Copyright (C) 2020-2021 Rudy Matela</tspan>
+      <tspan x="120" y="23.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="120" y="27.675">Originally available on https://cscx.org/triple.svg</tspan>
+    </text>
+  </g>
+</svg>

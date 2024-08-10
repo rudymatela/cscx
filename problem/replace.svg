@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="110mm" height="30mm" viewBox="-2 1 433 104" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <!-- Copyright (C) 2020-2022 Rudy Matela -->
+  <title>Replacing a character in a string</title>
+  <desc>Replacing a character in a string.  Copyright (C) 2020-2022 Rudy Matela  This image is available under the CC BY-SA 4.0 license.</desc>
+  <defs/>
+  <g id="Background"/>
+  <g id="Background">
+    <text font-size="3.38667" style="fill: #cccccc; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:sans-serif;font-style:normal;font-weight:normal" x="95" y="59.975">
+      <tspan x="95" y="59.975">title: Replacing a character in a string</tspan>
+      <tspan x="95" y="64.2083">Copyright (C) 2020-2022 Rudy Matela</tspan>
+      <tspan x="95" y="68.4417">This image is available under the CC BY-SA 4.0 license.</tspan>
+      <tspan x="95" y="72.675">Originally available on https://cscx.org/replace.svg</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="20" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="35" y="69.95">
+      <tspan x="35" y="69.95">'H'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="50" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="10" y="14.95">
+      <tspan x="10" y="14.95">'e'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="80" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="95" y="69.95">
+      <tspan x="95" y="69.95">'l'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="110" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="125" y="69.95">
+      <tspan x="125" y="69.95">'l'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="140" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="155" y="69.95">
+      <tspan x="155" y="69.95">'o'</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="35" y="68.95">
+      <tspan x="35" y="68.95"></tspan>
+      <tspan x="35" y="84.95"></tspan>
+      <tspan x="35" y="100.95">#0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="65" y="68.95">
+      <tspan x="65" y="68.95"></tspan>
+      <tspan x="65" y="84.95"></tspan>
+      <tspan x="65" y="100.95">#1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="95" y="68.95">
+      <tspan x="95" y="68.95"></tspan>
+      <tspan x="95" y="84.95"></tspan>
+      <tspan x="95" y="100.95">#2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="125" y="68.95">
+      <tspan x="125" y="68.95"></tspan>
+      <tspan x="125" y="84.95"></tspan>
+      <tspan x="125" y="100.95">#3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="155" y="68.95">
+      <tspan x="155" y="68.95"></tspan>
+      <tspan x="155" y="84.95"></tspan>
+      <tspan x="155" y="100.95">#4</tspan>
+    </text>
+    <g>
+      <path style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" d="M 20 10 C 40,10 60,0 60,37.7639"/>
+      <polyline style="fill: none; stroke-opacity: 1; stroke-width: 1; stroke: #000000" points="55,28.882 60,38.882 65,28.882 "/>
+    </g>
+    <polygon style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" fill-rule="evenodd" points="200,52.5 225,52.5 225,40 250,65 225,90 225,77.5 200,77.5 "/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="280" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="295" y="69.95">
+      <tspan x="295" y="69.95">'H'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="310" y="50" width="30" height="30" rx="0" ry="0"/>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="340" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="355" y="69.95">
+      <tspan x="355" y="69.95">'l'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="370" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="385" y="69.95">
+      <tspan x="385" y="69.95">'l'</tspan>
+    </text>
+    <rect style="fill: #ffffff; fill-opacity: 1; stroke-opacity: 1; stroke-width: 1; stroke: #000000" x="400" y="50" width="30" height="30" rx="0" ry="0"/>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="415" y="69.95">
+      <tspan x="415" y="69.95">'o'</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="295" y="68.95">
+      <tspan x="295" y="68.95"></tspan>
+      <tspan x="295" y="84.95"></tspan>
+      <tspan x="295" y="100.95">#0</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="325" y="68.95">
+      <tspan x="325" y="68.95"></tspan>
+      <tspan x="325" y="84.95"></tspan>
+      <tspan x="325" y="100.95">#1</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="355" y="68.95">
+      <tspan x="355" y="68.95"></tspan>
+      <tspan x="355" y="84.95"></tspan>
+      <tspan x="355" y="100.95">#2</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="385" y="68.95">
+      <tspan x="385" y="68.95"></tspan>
+      <tspan x="385" y="84.95"></tspan>
+      <tspan x="385" y="100.95">#3</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="415" y="68.95">
+      <tspan x="415" y="68.95"></tspan>
+      <tspan x="415" y="84.95"></tspan>
+      <tspan x="415" y="100.95">#4</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="325" y="69.95">
+      <tspan x="325" y="69.95">'e'</tspan>
+    </text>
+    <text font-size="12.8" style="fill: #000000; fill-opacity: 1; stroke: none;text-anchor:middle;font-family:monospace;font-style:normal;font-weight:normal" x="65" y="69.95">
+      <tspan x="65" y="69.95">'a'</tspan>
+    </text>
+  </g>
+</svg>
