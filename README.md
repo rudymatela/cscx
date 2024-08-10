@@ -5,10 +5,21 @@ This repository contains the sources to problems/exercises in
 "Computer Science by Example" ([cscx.org]).
 These are released with a copyleft license (CC-BY-SA).
 
+If you just want to read and solve the exercises,
+you are probably better off looking [cscx.org] directly.
+Pick an exercise such as [hello], [add] or [rot13],
+solve it and submit your solution there to get an automated score.
+
+[hello]: https://cscx.org/hello
+[add]:   https://cscx.org/add
+[rot13]: https://cscx.org/rot13
+
+If you instead want to host (some of) the exercises yourself
+you can use what is available in this repository.
 Problems/exercises are located in the `problem/` directory.
 They are using the [Udge] format,
 please see [Udge's README] for more details.
-To use these with Udge,
+To use these with [Udge],
 follow its setup instructions and
 copy the `problem/` directory
 into `/var/lib/udge/problem`.
