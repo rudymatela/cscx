@@ -48,9 +48,18 @@ _-999 ≤ i ≤ j ≤ 999_
 
 ### Scoring  #scoring
 
-* 2/10: works for the above examples
-* 6/10: works for for positives
-* 10/10: works for for positives and negatives
+* 2/10: works for the above examples but produces output in an incorrect format
+* 4/10: works for the above examples
+* 8/10: works for for positives
+* 12/12: works for for positives and negatives
+
+
+### Hints  #hints
+
+If you get a score of 0/12 but your output seems correct,
+check that you are not producing trailing spaces
+or extra line breaks at the end of output.
+The last number printed must be followed by a single line break.
 
 
 ### Related exercises  #related
@@ -60,6 +69,6 @@ try first: [countdown1](/countdown1)
 try next: [repeat](/repeat)
 
 
-Copyright © 2020-2022  Rudy Matela
+Copyright © 2020-2024  Rudy Matela
 This text is available under the CC BY-SA 4.0 license.
 Originally available on [cscx.org](https://cscx.org)/[seq1](https://cscx.org/seq1)
